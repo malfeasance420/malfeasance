@@ -1,3 +1,1732 @@
+Finley — 6/5/2024 8:49 AM
+But I do feel like for a strategy that is this tight, it would usually accrue a lot more taker fees?
+The biggest noticeable negative so far is the Cardano tx fees
+exkoltibur — 6/5/2024 8:56 AM
+There is no way to use axo from mobile right? We need eternl or something like that. Its strange basicaöly no cardano app has a mobile app
+Wouldnt that help a lot with adoption??
+exkoltibur — 6/5/2024 8:59 AM
+Must be really Bad if you work months/years to release a product that nobody needs or want anymore at the time it comes out
+dephi — 6/5/2024 9:29 AM
++1k ada in fees since yesterday 29k trades on axo
+Finley — 6/5/2024 9:31 AM
+Image
+SNEK book looks a bit fucked on Axo
+now AGIX is having a go... 👀
+Image
+Missed the order that caused it lol
+Image
+looks... interesting
+Image
+Serotonin — 6/5/2024 9:52 AM
+As in a multisig that manages liquidity on behalf of projects? 
+Or a group that designs tailored MM algos for a fee?
+dephi — 6/5/2024 10:03 AM
+i love your twitter explanations, i would love to get rugged by you ser!
+dannycemilha — 6/5/2024 10:16 AM
+We do like a Nuvola thing, sell a token. All Ada from the sell goes to MM on Axo, the profits and loses are shared with the token holder. Not a bad idea.:chad: 
+exkoltibur — 6/5/2024 10:21 AM
+Like a fund
+Serotonin — 6/5/2024 10:24 AM
+Hmm, I don’t like the possible legal implications of me being involved in that. I’m just one guy with no lawyer contacts who know anything about crypto
+Abd121 — 6/5/2024 10:26 AM
+I can start it instead, no regulations here I'll make the fund and hire you to manage it
+dephi — 6/5/2024 10:26 AM
+there needs to be a way to speed up the buyback DCA, every 7 hours aint enough - we need to grab as much axo at these prices as we can
+Abd121 — 6/5/2024 10:26 AM
+And your pay just so happens to be 99% of revenues
+Finley — 6/5/2024 10:26 AM
+I'm pretty sure it's respective of the amount of ADA in the strategy, so the more ADA available the more frequent the buybacks would be or the larger they would be.
+Just need a lot more fees to generate some healthier price action.
+dephi — 6/5/2024 10:27 AM
+yea we added 1k ada since i looked last yesterday already
+Serotonin — 6/5/2024 10:29 AM
+Maybe. I’d have to think about it. I’m already stretched pretty thin anyhow with everything I’m doing.
+Finley — 6/5/2024 10:30 AM
+Yeah idk not mad on the idea of Serotonin taking on any more additional work
+He's already doing insane amounts of unpaid work
+Suratay — 6/5/2024 10:30 AM
+thats the whole point of a DCA, to not interfere with the market based on price actions. The DCA is set for 30 Days with the amount of fees that were available and it will get a new, higher frequency strat as soon as there are more fees next month
+Finley — 6/5/2024 10:30 AM
+Maybe if he were being compensated for the crazy high quality content, and soon strategies he is making; it's a more plausible idea... but even still it's too much for one man.
+dephi — 6/5/2024 10:31 AM
+i know the amount is fixed but it used to be 50 ada every hour, now its 100 ada every 7 hours
+i too know its to keep the credits used low
+but... a man can dream :blink:
+Finley — 6/5/2024 10:32 AM
+Speaking of buybacks... @dannycemilha maybe there is still hope :Prayge:
+Image
+Suratay — 6/5/2024 10:32 AM
+Yes because we collected fees for 4+ month before starting the first DCA. This month we had less ada available thats why its every 7h because higher frewqueny is more fee costs and we cant up the amount baucause there is no ada for it
+exkoltibur — 6/5/2024 10:32 AM
+Shitadel dao
+dephi — 6/5/2024 10:33 AM
+HFT DAO
+high frequency trading dao
+Abd121 — 6/5/2024 10:49 AM
+Then pay him
+Does AXO funds not have the ability to charge fees to users?
+Finley — 6/5/2024 10:53 AM
+I mean it really comes down to what Serotonin wants to do tbh. I just don't think personally he should take on any more work without being compensated in one way or another.
+Whether or not he can be paid in an official manner idk!
+exkoltibur — 6/5/2024 11:16 AM
+We should ask frosty and dc
+They would have a token sale first and then figure out the details
+Lifeless Ditto — 6/5/2024 11:45 AM
+why not more
+heh
+Finley — 6/5/2024 2:37 PM
+https://x.com/snek/status/1798437186842616263
+Snek 🐍 (@snek) on X
+@axotrade Can't wait to sssee all thisss tracked both on TapTools and CoinMarketCap 🔥🔥
+Snek 🐍 (@snek) on X
+
+Twitter•6/5/2024 2:30 PM
+:blurryeyes~1:
+If it's not coordinated or agreed already that is hilarious lmao
+dephi — 6/5/2024 2:38 PM
+i guess snek ppl would like to have their 24hour volume (1m) tracked and counted for the competition
+Finley — 6/5/2024 2:38 PM
+very much
+they are incentivised to pay us or subsidise us for the expense
+dephi — 6/5/2024 2:38 PM
+so the splash launch event will show axo = better bang for the buck liquidity wise
+Finley — 6/5/2024 2:38 PM
+I mean this is the thing
+Snek is partnered with splash but there are no loyalties
+its business
+Whatever is best for the snek brand is what they will do
+If we can offer them what they need better than anybody else... it's just natural
+and right now they are absolutely desparate for volume
+Man these whales
+buying and selling 300-400k ADA
+in 1 trade
+I cant even FATHOM how much money they lose doing that
+Whereas on Axo... they can literally just do it 1:1 no slippage, almost no fees against each other
+They could avoid 99.9% of those fees
+Just by trading with each other on Axo instead of a pool
+🔥HOTSKY🔥 — 6/5/2024 2:43 PM
+AXO x SNEK is where all the fun is !
+Finley — 6/5/2024 2:43 PM
+https://x.com/axotrade/status/1798440387893473789
+Axo (@axotrade) on X
+@snek Sssoon
+
+Twitter•6/5/2024 2:42 PM
+Well. well. well...
+🔥HOTSKY🔥 — 6/5/2024 2:44 PM
+Doing limit orders on AMMs is the dumbest thing ever
+Serotonin — 6/5/2024 3:19 PM
+Hamilton — 6/5/2024 3:19 PM
+Did it tho?
+Finley — 6/5/2024 3:21 PM
+faster than most things tend to in ways
+Hamilton — 6/5/2024 3:28 PM
+I mean, it is happening, right?
+Marked Safe From Titan — 6/5/2024 3:31 PM
+yesssssss
+Finley — 6/5/2024 3:32 PM
+I'd be surprised if everybody tweeted about it for it to not happen
+dephi — 6/5/2024 3:34 PM
+gotta be the saddest comment in a while
+Image
+and of course we all wait for the mandatory "wen audit" butane clown crew comment
+and then i go have a look at btn discord and find this gem
+Image
+it seems even their token price is only moving on audit announcements O_o
+Hamilton — 6/5/2024 3:48 PM
+"Soon, will see up or down" spoken like a true profit
+MikeM — 6/5/2024 4:03 PM
+Soon, the chart will move to the right :Prayge:
+Hamilton — 6/5/2024 4:08 PM
+https://x.com/TapTools/status/1798440762855829953
+TapTools (@TapTools) on X
+NEW INTEGRATION
+
+@splashprotocol orderbook is now live.
+
+🫡
+TapTools (@TapTools) on X
+
+Twitter•6/5/2024 2:44 PM
+Aweew yissss order book
+dephi — 6/5/2024 4:12 PM
+We have OB at home ☺️
+C. — 6/5/2024 7:07 PM
+I need your help guys
+I have a friend who is a full time trader. He is solid and I want to bring him to crypto. He has a lot of interest but I’m not exactly sure how to make him understand the power of Axo with his skill set. Anyone here got a clever way to translate it to him?
+Lifeless Ditto — 6/5/2024 7:10 PM
+Trading bot for the NYSE but he doesn't need to run a server and his orders execute according to the strategy he sets
+tailored to allow for HFT if he wants to. And since it is order book, the fees are lower in an order of magnitude to AMMs
+Hamilton — 6/5/2024 8:11 PM
+eh.
+If he is a full time trader, being an orderbook is not an advantage. It is the minimum, he probably doesn't even know what an atrocity an AMM is
+Abd121 — 6/6/2024 12:39 AM
+final day of uni, spent all night finishing my Graduation Thesis Presentation, and now it has been moved 2 days forward
+well, I already took the day off to go present I wonder if I should clock back in or go back and sleep 
+Oli — 6/6/2024 12:46 AM
+I would show him the strategy composer and talk more about that. It's a tool that a lot of pro traders are hyped up for
+
+https://www.axo.trade/strategy-composer
+
+Starting to talk about decentralization, non-custodial, smart contracts etc might not be appealing. I would first talk more about the actual trading experience. Algos, strats, xlang, hft. 
+Once he's interested, then maybe make him understand you don't need an account, no kyc, assets cannot be frozen etc
+Axo
+Strategy Composer | Axo
+Simplify blockchain trading - intuitively combine trade templates, drag & drop functionality, and financial scripting language to code strategies from scratch.
+Strategy Composer | Axo
+dephi — 6/6/2024 4:58 AM
+https://x.com/BullishDumpling/status/1798649148247564518 lol guy is snek himself
+Bullish Dumpling (@BullishDumpling) on X
+GM frensss🐍
+
+$SNEK
+@coinbureau
+Bullish Dumpling (@BullishDumpling) on X
+
+Twitter•6/6/2024 4:32 AM
+Hamilton — 6/6/2024 6:10 AM
+@glewellin So... regarding pseudo-private strategies, would this be it? https://app.axo.trade/composer/15dfb224-cde1-4280-9f82-599478de5
+Composer | Axo
+Axo
+Composer | Axo
+Finley — 6/6/2024 6:19 AM
+I think that's just on the FE
+If you know what to look for you can still find the RFTs
+Hamilton — 6/6/2024 6:19 AM
+That is why I say pseudo-private, it is blockchain and all
+Finley — 6/6/2024 6:19 AM
+And they contain the metadata of the strategy no?
+Mm yea
+Spose
+Hamilton — 6/6/2024 6:20 AM
+But I think it is still a worth feature
+Finley — 6/6/2024 6:20 AM
+I think there's possibilities for encrypting the metadata in future though
+Not sure
+May require L2 or some heavy dev
+Hamilton — 6/6/2024 6:20 AM
+Yes, but that would be much more complicated and nowhere near us, but at least if you can hide in the front end
+Finley — 6/6/2024 6:20 AM
+Yeah
+If it doesn't show up publicly it's a start
+Hamilton — 6/6/2024 6:20 AM
+It can make harder for people to copy your strategies and you can protect some aplha and it isn't hard
+Finley — 6/6/2024 6:20 AM
+With enough strategies it would be hard to pick out I'd imagine
+The more meta volume Axo generates the harder it would be to parse through I guess
+Hamilton — 6/6/2024 6:23 AM
+I mean, apparently, it is already something implemented, it is just a case to make it available to the user, doesn't seem to be a huge task, and like I said, it is pseudo private, but at least for someone to look at it, they have to know it is there and if it doesn't show in the front end, it is already a step
+And just to add to my argument, why I think even tho, it is not true private, I still think it is worth it, I will quote someone out of context, but it works anyway.
+Image
+dephi — 6/6/2024 6:45 AM
+⁠No Access anyone with inside knowledge of the batching solution can answer this correct? my knowledge is restricted to axo OB
+dont wanna give wrong answer on this
+dephi — 6/6/2024 7:13 AM
+???
+Image
+lil annoying, everytime someone posts something positive about axo someone starts commenting about splash
+
+its like back in the good ol days when every positive comment on axo would result in some retard praising GY
+Finley — 6/6/2024 7:16 AM
+errr
+thats kinda weird
+that guy was in degen corner shilling usdm the other day
+now he's shilling splash on Axo posts :thonk:
+Abd121 — 6/6/2024 7:17 AM
+GY 2.0
+pibe age — 6/6/2024 7:35 AM
+imho this is bs behavior
+dephi — 6/6/2024 7:38 AM
+Poor marketing strategy. Same Shit different dex
+Finley — 6/6/2024 7:39 AM
+idc about promoting all sorts of projects or whatever but doing it under a post highlighting Axo is just mega cringe
+moving like eclipse
+not in the sense that his life is dedicated to hating Axo lol
+just that eclipse is the kinda guy to see a post praising Axo and reply like "actually what about this AMM? it's better 🙂 "
+Hamilton — 6/6/2024 8:05 AM
+Will go into usdm discord talk about djed
+exkoltibur — 6/6/2024 8:11 AM
+Whatd actually Happening with djed
+After it came out of the low Reserve hole
+Still slow it seems
+Marked Safe From Titan — 6/6/2024 8:40 AM
+Yo the argument was said in lenfi discord that axo is only offering an api for tt and they need to be able to verify on chain. What's the argument against this?
+dephi — 6/6/2024 8:53 AM
+axo trades are literally on the L1 they could go and verify on the $axo.fee wallet 
+this is what it looks like on cardano scan if you open $axo.fee
+
+thats how my no dev brain would verify the trade....
+unsure if thats whats needed but the first market trade in ada/agix OB should be the one in the fee wallet
+Image
+Image
+Marked Safe From Titan — 6/6/2024 8:55 AM
+So every trade goes thru that wallet since every fee does?
+dephi — 6/6/2024 8:56 AM
+the fee s get send to the fee wallet within the same tx that your crypto exchanges in the UTXO (thats how i understand seeing the fee wallet tx, because i always find the same numbers in the OB on axo)
+there is no batcher sandwhiching my trades as in AMM Batcher system - there you can trust someone with all of this
+[this is just my non team expertise opinion, not guarateed thruth] thats how my brain deals with watching the fee wallet for a while, maybe jarek can confirm/deny later
+Finley — 6/6/2024 8:57 AM
+I think its because of the policies
+every exchange and dapp can be tracked through 1 or 2 policies iirc
+but every Axo algorithm is a unique policy
+Marked Safe From Titan — 6/6/2024 8:59 AM
+Could we get the team to explain? I'd love to be educated on this especially since I've been arguing it 😄
+dephi — 6/6/2024 9:00 AM
+jarek is in the capital efficiency twitter space rn
+https://x.com/CardanoSpot/status/1798716302389059652
+Cardano Spot (@CardanoSpot) on X
+https://t.co/nLi3iJXgB6
+
+Twitter•6/6/2024 8:59 AM
+Hamilton — 6/6/2024 9:09 AM
+Yo, why wasn't that said before 👀
+dephi — 6/6/2024 9:11 AM
+we wanted to enjoy without you 😊
+Hamilton — 6/6/2024 9:11 AM
+Not like I'm a speaker
+baba — 6/6/2024 9:16 AM
+https://vxtwitter.com/dexter_nmn/status/1798716057227784435?s=46&t=0Hx3D5_2GZ1MUi3IisB0gg
+vxTwitter / fixvx
+Twitter
+naman 🐸 (@dexter_nmn)
+Right from Splash discord. This is how it works! Btw i am not suprised !
+
+These guys coming and shilling false narratives. Beware #cardano #community , these guys here are to loot you. https://t.co/avyAHyVpus
+
+【QRT…
+
+💖 1
+naman 🐸 (@dexter_nmn)
+Finley — 6/6/2024 11:04 AM
+Seems A LOT of IAG orders routed through Axo
+wonder if their AMM liquidity is very fragmented or another reason
+Image
+baba — 6/6/2024 11:13 AM
+At this point i am happy with aggregators existence. They are making axo great which we know in theory that it is great
+Finley — 6/6/2024 11:44 AM
+https://x.com/famousshea/status/1798511710057452019
+The Famous Sheamus ☘️🛸 (@famousshea) on X
+UPDATE:🚨
+I got the auto trading strategy working on @axotrade!
+
+It was very easy to setup! 1 note though, it's not very intuitive what it's going to do or how it's going to do it. I ended up sending much more $ADA to the contract than I had planned on! 😅
+
+Oh well. Let's let…
+
+Twitter•6/5/2024 7:26 PM
+this tweet thread is a pretty concrete idea of how new Axo users are approaching the platform and trying to tackle the learning curve rn
+dephi — 6/6/2024 4:31 PM
+he seriously needs some other hobby
+Image
+Senseido — 6/6/2024 5:05 PM
+Who is that?
+dephi — 6/6/2024 5:08 PM
+Eclipse s pseudo alt Account. Acting as axo die hard. Didnt have him banned - that changed when i saw him Clown again
+pibe age — 6/6/2024 5:15 PM
+I'm not sure how constructive this will be, but if it helps, I'd like to express my feelings—similar to what NobAdy did a few weeks ago—regarding the current status of Axo. If this isn't helpful, I apologize for taking up your time.
+
+Volume is picking up, TapTools integration will be beneficial, the tokenomics are sound, and the team is listening to the community and actively working on improvements. The additions of Thor and Monad have been great.
+
+However, I am not satisfied with the current state of Axo. Perhaps it's my fault for setting my expectations too high before the launch six months ago. Given that AMM models are stupid and Axo's proposition is nearly perfect, I expected Axo to dominate Cardano quickly.
+
+Instead, we experienced a failed launch of an unfinished product. Six months have passed, and it feels like we are still in the same position (even though I know we are not) because people don't know how to use the protocol. By the way, thank you, Serotonin; your threads are great.
+
+I guess I just want to bring awareness to the current situation, which, in my opinion, is not good. I know several people who got burned using Axo. Even though they knew what they were doing (or at least the risks they were assuming), I feel we can't allow this to happen anymore.
+
+I hope this is just a "bottom signal" message, that UX improves from now on, and in some weeks we see a 10x increase in volume (Minswap's current volume). Like NobAdy, I believe in Axo and its team. I just want Axo to succeed because I know it can.
+Image
+C. — 6/6/2024 5:21 PM
+ty oli
+Serotonin — 6/6/2024 10:18 PM
+The first of a few. Doesn't have all the bells and whistles, but I'm just trying to get something out there for people to play with atm
+⁠No Access
+I'm not actually sure if it even works yet :kekw~2:
+Marked Safe From Titan — 6/7/2024 4:26 AM
+Which one is this? Mock amm or the one that keeps from being the taker
+Hamilton — 6/7/2024 6:38 AM
+https://x.com/minswapdex/status/1798730762956775529?s=46&t=9Al1drE-gLdYuHd11LUE3Q
+Minswap Labs (@MinswapDEX) on X
+CIP-113 is set to bring programmability to tokens on #Cardano🔥
+
+But the DeFi ecosystem isn't quite ready. eg. for USDC/USDT to be onboarded natively, a compatible DEX is crucial.
+
+☞ Read more on how we are bridging the gap by teaming up with @FluidTokens 🧵
+Minswap Labs (@MinswapDEX) on X
+
+Twitter•6/6/2024 9:56 AM
+I hate this amount of generic shit.
+Novel DeFI products, what is novel? Tokenized RWA (the buzzword of the moment) Next-gen dApps, what is next-gen about it?
+You say a lot without saying anything
+dephi — 6/7/2024 6:40 AM
+blockchain metaverse nft artificial intelligence
+Faketoshi — 6/7/2024 6:57 AM
+new 'weighted' pool with 7,5m TVL vs AXO 5k TVL
+Image
+Image
+MikeM — 6/7/2024 7:09 AM
+Woah this is a good idea 👀
+Serotonin — 6/7/2024 7:10 AM
+Neither 😂
+Marked Safe From Titan — 6/7/2024 7:11 AM
+Damn ur busy
+Serotonin — 6/7/2024 7:11 AM
+Since it’s a grid you shouldn’t be taker. The mock AMM will have that protection though
+Unless you have a very small spacing
+Hamilton — 6/7/2024 7:12 AM
+Hmmm, I don't think it works that way
+Marked Safe From Titan — 6/7/2024 7:12 AM
+Can the nested ref be setup to never be taker?
+Serotonin — 6/7/2024 7:12 AM
+Yes
+Hamilton — 6/7/2024 7:13 AM
+Even if it is a grid, if you put a limit buy in a price where there is already a limit sell and you get matched
+Serotonin — 6/7/2024 7:13 AM
+Works what way?
+Hamilton — 6/7/2024 7:13 AM
+You should be a taker
+Serotonin — 6/7/2024 7:13 AM
+Yea, that’s why I said if you have a small grid spacing you could still be taker
+Finley — 6/7/2024 7:13 AM
+I couldn't make this happen :sad:
+Serotonin — 6/7/2024 7:14 AM
+No? What was the problem?
+Finley — 6/7/2024 7:14 AM
+Altho it basically never happens anyway if you aren't ultra mega tight
+idk man I couldn't test my strat on testnet because it's unusable for high volatile reference strat testing
+spent like 180 ada pissing around with it on mainnet
+out of 71 trades 5 were takers
+so either the logic just doesnt work
+or there's rare scenarios where the assert happens and then an order is placed by a 3rd party
+forcing me into taker
+also because of the assert logic i think? the Cardano tx fees are expensive
+https://app.axo.trade/strategies/view/yEZc0_?tab=trade-history
+Smooth Spot Reference Market Maker x5 yEZc0_
+Axo
+Smooth Spot Reference Market Maker x5 yEZc0_
+Serotonin — 6/7/2024 7:17 AM
+Damn, okay, well I’ll give it a shot
+Finley — 6/7/2024 7:17 AM
+yeah I just don't know how to test it without burning more ADA
+I was thinking about splitting the assert and bid/ask into 2 separate proofs but again
+dont fancy burning 65 ADA every time I make a slight adjustment
+Serotonin — 6/7/2024 7:20 AM
+I can test the smart grid with it on testnet. Put a limit where I know the grid will move next iteration and then buy its current position out
+Finley — 6/7/2024 7:21 AM
+Cool, I need to change something anyway because the current iteration doesn't work so I'll try and think of what to change and lyk
+Marked Safe From Titan — 6/7/2024 7:38 AM
+Dh routing customization turned on. Bye bye dh volume?
+pibe age — 6/7/2024 7:42 AM
+even if you hate Axo, are you willing to pay more for your trade to avoid using it? does not seem logic
+I feel people avoiding Axo are people trading 100 ADA
+Marked Safe From Titan — 6/7/2024 7:44 AM
+It's the partial fills turning them off to axo. Everytime they think it's just frozen instead of knowing they can withdraw and the rft's freaking them out
+Plus no snek trading rewards which will be the big one I think
+relent7ess — 6/7/2024 8:16 AM
+Been trading much better on axo these 2 weeks
+But haven’t seen much organic unfilled limit orders yet.
+relent7ess — 6/7/2024 9:02 AM
+would be cool if axo incorporate or buyout steepswap aggr and build it into simplemode
+pibe age — 6/7/2024 9:07 AM
+it's a win win for both parties. we need something like that asap
+steelswap does a good job calculating what you get
+relent7ess — 6/7/2024 9:09 AM
+yea, not sure how long can lse mm for. its best to attract users placing limit orders
+or even giving apr for users with limit orders within range from reference price.
+Hamilton — 6/7/2024 9:12 AM
+We will find out soon enough
+Most likely next week
+Faketoshi — 6/7/2024 10:02 AM
+I proposed the same thing and he said he is open to it (buried somewhere in the degencorner)
+Finley — 6/9/2024 5:44 AM
+How much longer do we actually have to wait @glewellin? It's been 70 days now since the original deadline you gave us for this feature
+Image
+I told Matt from Mehen that it would be integrated within the next few weeks when you told me it was but a week away
+Axo is the PERFECT home for stablecoin trading, and that is not including the usage of the LONG AWAITED price oracle feed.
+Are we going to start disregarding promises and deadlines made in the past AGAIN to franticly pursue new lines of development? 
+This is such a tiring game you play with us Jarek. Constantly. and I do mean CONSTANTLY making promises and ETAs and deadlines and giving us hope and expectations over, and over, and over. Yet here we are 6 months post-launch and the platform is barely 2% more useable than it was at launch. When will you stop bullshitting us for a living Jarek?
+Finley — 6/9/2024 6:00 AM
+So can you explain how you gave a deadline over 2 months ago and we are seemingly nowhere closer to it being met now than we were back then? What sort of disconnect is there between you and the devs for you to feel confident in saying that feature would be ready by Easter yet here we are over 2 months later with nothing to show, and this is just an example of the LONG list of promises you have given not just the entire community, but the OGs in here; I would go as far as to wager that every single deadline you've ever given has not been met.
+Why is this?
+Don't you think it's time for you to stop making false promises to people?
+I think you will find that we are all x10 more disappointed and upset when you give us a deadline and then miss it in catastrophic fashion, as opposed to just saying nothing.
+If you have nothing to show for a month, then say that. Don't lie to us and trick us into thinking that new features are "just around the corner", "next week", "soon", that is BULLSHIT Jarek. So no it is not unfair at all to call it what it is. If you lie to us then you are bullshitting us that is the simple fact of the matter. And if you say that is unfair then I say you need to stop pulling these fantasy deadlines and ETAs out of nowhere and giving everybody a false sense of expectation.
+Finley — 6/9/2024 7:25 AM
+"CMC feed is integrated" you said this weeks if not over a month ago as well so it really means quite little at this point like most things you say which is my actual main point that you haven't addressed. Can you show me the wild assumptions? I asked you why you give deadlines that are never ever met or even close to it; point out the wild assumption in that objective statement please. This is one of a long list of examples that we have all had to deal with and a lot of OGs have simply left or are at breaking point from having do deal with this constant let down and disappointment from you; not the team. The team are incredibly hard workers I have no doubt about that, but it's you who is saying things and making statements that are wildly untrue and are NEVER ever met. 
+
+So I don't appreciate "that is unfair" or "I'm sorry our best is so bad for you" how about a little bit of accountability for your actions and statements as CEO? How about you admit that you have a tedious habit of making statements and deadlines and ETAs that have gone unmet and quite frankly were never going to be met in the first place. It is time you changed some of your habits Jarek before you lose what little remaining diehard followers you have. I do not speak alone when I say these things and you should know a lot of people feel this way; they just wont say it to your face like I am now.
+exkoltibur — 6/9/2024 7:35 AM
+Why are you guys impacted so much by axo progress? How does it hurt you if progress if slower than expected?
+Finley — 6/9/2024 7:37 AM
+The speed of progress is entirely irrelevant, it is explicitly the never-ending list of seemingly "objective" statements, deadlines, ETAs, promises and more that have all gone entirely missed and unmet, it is disingenuous and extremely demoralising for those who actually listen and give any weight to the words being said by him.
+As I said if you have to pick between making statements that are factually untrue, or saying nothing; why would you pick the former?
+Hamilton — 6/9/2024 7:45 AM
+I'm not in the mood for discussions today, but this right here is a misinterpretation of the sentiment I feel by talking to some people. I'm a developer myself and I understand that things take time. But as you can see for some weeks now (at office hours for example), I'm asking for no more ETAs, cause they're never met. And it is honestly just misleading. Like, don't know when it will be ready? good. Say it is working progress, but don't play with people's expectations.
+Second and no less important, I have PTSD every time I see something new said/announced, cause we still don't have PnL and proper docs and now we see the launchpad thing. Don't get me wrong, I can literally see progress. Volume is picking up due to tighter strategies, I know the team is working on other things like front end fixes and such, even PnL. But looks at it in the eyes of the user, what can I do? AXO is great for people who just want to buy and sell like in AMMs, but what if we want to something more? Everything that was advertised on the whitepaper, interviews and so on for so much time? We can't. I'm just sitting on my hands for some time watching. Cause I can't do what I want to do and every week, there is a new "next week" that never gets respect and it is honestly frustrating. I still have faith in AXO, it is the only crypto position I still hold, I moved everything else back to tradFI. But the current state is worse than what I expected it would be when it launched 6 months ago. ready when ready
+baba — 6/9/2024 9:45 AM
+I will just add. Its frustrating both ends, team as well as community as the expections are not met. But we all are agreeing, the progress is being made. 
+
+Its just a time where somebody cant hold onto frustration compared to other. We will meet expectations one day! Lets be together !
+Serotonin — 6/9/2024 8:47 PM
+I'm hoping you guys pulled the strats as opposed to them getting completely drained
+Image
+@glewellin @Oli
+Serotonin — 6/9/2024 8:55 PM
+@masato.alexander
+rsERG, BTN, SUNDAE, MILK
+Serotonin — 6/9/2024 9:08 PM
+Person doing it sent 70k ADA through 8 different wallets. Primary address is
+stake1uyz09hauuyehyq3th7t6kvqdknk72zgqk45yhlllm40v2pgduh88q
+The feedthrough wallets also all have an inbound tranaction from this $louey.vending
+stake1u8k8wpw3de6p68qhk7ahfahnsp4pqdzpthvfk9e5s0lmq4qudlwd6
+Lifeless Ditto — 6/9/2024 9:38 PM
+How much did they make?
+Serotonin — 6/9/2024 9:52 PM
+Idk, I don't really have time to analyze everything rn, so I haven't tried to figure it out
+a quick glance on SUNDAE, they were trading ~8-10kADA worth and made like 15% every 2 trades, with maybe 8-10 pairs of trades. Is that like 12k ADA on that pair alone?
+looks like they made closer to 30% per pair on rsERG
+Market Making is Hard — 6/9/2024 10:13 PM
+So someone found an arbitrary trade?
+flynn — 6/9/2024 10:27 PM
+I luckily pulled all my strats last week while trying to work out a better one 
+pibe age — 6/9/2024 10:44 PM
+:pepehmmm:
+exkoltibur — 6/9/2024 11:38 PM
+What exactly this this guy do?
+exkoltibur — 6/9/2024 11:45 PM
+Just buy and sell or what? Is it really that easy to plunder some strats??? 
+Oli — 6/10/2024 1:23 AM
+I've sent this to the team on slack 👍 thanks serotonin 🙏
+Oli — 6/10/2024 5:28 AM
+Hey everyone, would like to thank Finley, Serotonin and Hamilton for raising this issue with us 
+
+Just to let you know that Jarek also noticed this and could pull some of the strats on time. We're already working on solutions to avoid this 💪
+Finley — 6/10/2024 5:33 AM
+He noticed before or after multiple CNTs were being arbed for hundreds of thousands of ADA and me and other community members actually said something about it? For anybody that doesn't understand what happened let me explain it for you.
+Finley — 6/10/2024 5:55 AM
+When the 'ref_spot_all!' signal was released it came with a number of pre-built default returns that could be called from it, mainly there was a 'raw_spot' and a 'smooth_spot' signal to be referenced. These two signals work very differently from one another and although it is obvious from the name its worth understanding what the signals actually do.
+
+The 'smooth_spot' signal returns a smoothed price across all DEX over a recent time-period average.
+
+The 'raw_spot' signal is a very dangerous signal to use in any capacity, this signal will return the most recent price for an asset across ANY market, ANY pool, ANY condition.
+
+And so last night or even 2 or 3 days ago now potentially, somebody realised how flimsy and easily manipulated the 'raw_spot' signal is, so what they did is they found the SUNDAE pool on Minswap with barely any TVL, an empty shallow pool. And then sold 500 ADA of SUNDAE into that pool which caused a significant price movement for SUNDAE on Minswap; what did our 'raw_spot' treasury strategies do? They sold 20k ADA worth of SUNDAE at the price (0.0175) that SUNDAE was being sold for in the empty Minswap pool. And then the same person would buy back 500-1k ADA worth of SUNDAE on Minswap and what would the treasury 'raw_spot' strategies do? Well they would of course start buying SUNDAE at the price (0.019) quoted in the empty Minswap pool.
+
+So now we come to ask ourselves... Why was the treasury placing upwards of 1-2M ADA worth of assets into exclusively 'raw_spot' reference strategies? Who made this decision? Knowing full well that we have 'raw_spot' and 'smooth_spot' calls available and also knowing full well that the 'raw_spot' reference returns the last price under any condition regardless of pool size, volume, or any kind of averaged equation.
+Who let this happen? Who made the decision to utilise 'raw_spot' knowing how dangerous it is and how trivially easy it is to manipulate?
+Image
+Image
+Image
+Image
+How much money did we lose here, will we even be able to tell for certain? Can we go across all pairs and make sure the same hasn't happened?
+Because it seems like nobody noticed this happening until myself and some OGs did last night, what would have been if we didn't notice after 2/3 days already?
+How much time would it have taken for somebody to milk the treasury dry on every single pair?
+Finley — 6/10/2024 5:59 AM
+If you notice in the last screenshot here, this CNT was being milked up until just a half hour ago.
+Let's try for some accountability for a second day in a row shall we?
+Or are my statements once again "unfair" and therefore to be ignored and discarded like usual.
+Faketoshi — 6/10/2024 6:09 AM
+Did they also gain AXO rewards for being the maker? This is a lot of volume to get rewards for🤔
+Finley — 6/10/2024 6:10 AM
+Yes they did, they placed limit orders before manipulating the flimsy 'raw_spot' signal which caused the treasury strats to move into their limit orders.
+exkoltibur — 6/10/2024 6:37 AM
+Wow interesting but quite an obv exploit
+Similar to the "highly profitable trading strategy" on mango markets back then 
+Leyla2042 — 6/10/2024 7:47 AM
+Finley — 6/10/2024 8:24 AM
+Hello, is there anybody there? Or am I just shouting meaninglessly into the void like most who have a conflicting opinion with somebody in here..?
+Image
+It's STILL happening.
+Isn't that just absolutely incredible.
+Image
+Is Axo a non-for-profit now?
+Should we mint a $axo.charity handle for the treasury wallet?
+exkoltibur — 6/10/2024 8:49 AM
+Why are you so angry??? You are acting like you are their boss? What do they owe you? Im sure they don't make mistakes on purpose
+Finley — 6/10/2024 8:50 AM
+Sorry if you just woke up after 6 months but this has been our reality for half a year now, thats why I'm angry. You clearly haven't paid the slightest bit of attention to ANYTHING that has happened since launch and it really shows.
+Please don't try and belittle me for asking genuine questions as to why the treasury is donating tens of thousands of ADA every week to the community.
+Come to think of it maybe I just found the person who is taking advantage of these pathetic strategies :sus_eyes:
+dephi — 6/10/2024 8:52 AM
+guys: chill!
+i'm glad that ppl like finley are following those moves - end of the day its our treasury, dont wanna have it drained
+TStorms — 6/10/2024 8:52 AM
+You should take your share while the exploit is still available, you found it fair and square
+Finley — 6/10/2024 8:53 AM
+You're right I should but here I am tossing a bone to apparently nobody
+exkoltibur — 6/10/2024 8:53 AM
+Dude but the team doesn't owe you anything
+You chose to follow and invest in them that's your risk and decision
+Hamilton — 6/10/2024 8:53 AM
+Just how detached to reality are you?
+Finley — 6/10/2024 8:54 AM
+Okay sorry this guy is not being serious he is justifying the treasury turning into a charity
+He might actually be the person who found this vulnerability and is milking it :kekw~2:
+exkoltibur — 6/10/2024 8:54 AM
+Guys I'm gonna say one thing. If you bought axo and you are down then there is absolutely nobody to blame for it but yourselves. That is the only reason I imagine people could get so worked up about this stuff
+Finley — 6/10/2024 8:54 AM
+How insanely irrelevant
+dephi — 6/10/2024 8:54 AM
+dont think that this is exclusively a problem related with latest price action
+Finley — 6/10/2024 8:54 AM
+But thanks for that.
+Hamilton — 6/10/2024 8:54 AM
+Nah, that is it for me, this guy is delusional
+dephi — 6/10/2024 8:55 AM
+if treasury is drained, project =ded - ez
+Hamilton — 6/10/2024 8:55 AM
+Like, who the fuck said anything about price
+exkoltibur — 6/10/2024 8:55 AM
+No I'm not... I can guarantee you that
+Finley — 6/10/2024 8:55 AM
+You seem quite open to the idea of it being a minor issue and no big deal
+Do you realise what is happening?
+How many tens of thousands of ADA is being generously donated due entirely to incompetence?
+exkoltibur — 6/10/2024 8:56 AM
+My life does not depend on axo, so that is why I am relaxed
+And your life too should not depend on it
+TStorms — 6/10/2024 8:56 AM
+Why get upset about this? This seems like it’s in line your perspective of the team over the past 6 months. You did what you could for the team by mentioning it. Just take your share of the exploit and move on
+exkoltibur — 6/10/2024 8:56 AM
+And if it does there is something wrong
+Finley — 6/10/2024 8:56 AM
+Ah that's nice maybe you should disappear for another 6 months and see the state of the platform then.
+Definitely got a long runway ahead. 
+Image
+exkoltibur — 6/10/2024 8:57 AM
+Why the he'll are you guys so extremely upset then??? How is your life affected????
+I don't get it
+I don't get the extreme anger
+It must affect you personally somehow
+Otherwise where does the emotion come from???
+Finley — 6/10/2024 8:59 AM
+Why did you put all of the treasury allocation into raw_spot strategies when you knew they referenced the last price across all pools?
+And why are there still pairs being manipulated
+as recently as 10 minutes ago
+All of the treasury is using raw_spot signals
+As I mentioned above OPT was being manipulated up until very recently
+If a strategy is using the raw_spot reference it is vulnerable to manipulation
+So are you going to wait until after somebody discovers an easily exploitable pair to take the strategy down
+or are you going to be proactive and take them all down.
+Also the point it got so heated was when you tried to brush off my comments as "unfair" and of very little meaning to you, but that's nothing new you should just expect pushback from people when you say those things to them.
+All pairs have the ability to be low liquidity
+Anybody can make a pool on Minswap or Sundae
+Are you going to continue using the very dangerous raw_spot signals or are you going to switch over to smooth_spot?
+How much has the treasury lost from these reckless strategies?
+Finley — 6/10/2024 9:06 AM
+So you decided to use the raw_spot signal for testing purposes, on mainnet with all of the treasury funds?
+Did you know smooth_spot existed?
+And did you know exactly how dangerous raw_spot is?
+How much money did the treasury lose?
+Do you take full accountability for those losses? And for using the raw_spot signal knowing how dangerous and easily manipulated it is?
+relent7ess — 6/10/2024 9:07 AM
+wen aggregator integration
+Finley — 6/10/2024 9:08 AM
+Will you take accountability for your actions?
+And the losses sustained, as well as using the raw_spot signal knowing how dangerous and easily manipulated it is?
+Will you also take accountability for what you didn't actually ever address properly yesterday?
+I don't feel you are treating us fairly Jarek, that's why I waited 6 months to make it known.
+Everything is always "unfair" when it doesn't go your way, isn't that right? Or when anybody has something critical to say or says something you disagree with, that's quite "unfair" as well is it?
+pibe age — 6/10/2024 9:22 AM
+I just wanted to say, I endorse Finley's comments and stand by them as if they were my own. Jarek, in crypto -especially in the early stages like this- trust is everything. We are here because we trust you and have confidence in your work. Please try to be more transparent and take accountability when it is due. Playing the 'unfair card' does not lead anywhere. We are in this together, trying to make Axo better :malheart:
+Finley — 6/10/2024 9:22 AM
+When you tell somebody "I'm sorry you feel that way", do you know what that means? It means you're not really sorry and you're also not actually taking any accountability for your actions, saying "I'm sorry you feel that way" is a very subtle way to dismiss and disregard somebody or what they have said. Are you sorry for your actions that you took that incurred the losses sustained by the treasury? Are you sorry for using the raw_spot signal while you knew how dangerous it was? Are you sorry for the never-ending list of missed promises, expectations, and statements? Will you take any accountability for any of it? I'm not interested in "me and the team" because it is you who says and does these things not the team. The team are incredibly hard workers and I have no doubt they are constantly overworked and pushed to their limits. But they didn't do all of these blundering failures did they? They did what you told them to do because you're the boss.
+Oli — 6/10/2024 9:33 AM
+Guys, there are multiple ways of saying things. This is clearly not the right way, I think everyone can agree on that 😕 while what is being said is true, the way it is said is not constructive at all. It is fueled by emotions and this will lead nowhere. 
+
+Please calm down @Finley and understand that this behavior is not okay. Jarek is here talking to you, take advantage of it. But acting this way only makes it worse
+It is creating FUD in this group and that is something we need to avoid 
+Finley — 6/10/2024 9:34 AM
+Did you or did you not setup the raw_spot treasury strategies? Did you or did you not know that the raw_spot signal is extremely dangerous and easily manipulated? Did you or did you not give a seemingly never-ending list of missed promises, deadlines, ETAs and more? If you did then you should take accountability for those actions.
+To be honest Jarek few people care about how "unfair" everything is for you so the weird little condescending ego-trip isn't going to turn many heads for you. The fact of the matter is this is your company and therefore the ultimate burden of responsibility lies upon your shoulders 
+Mal
+APP
+ — 6/10/2024 9:35 AM
+Congrats @Finley! In recognition of your achievements in increasing the server's entropy, you advance to level 50!
+:partymal: :partymal: :partymal:
+Finley — 6/10/2024 9:35 AM
+Will you or will you not take accountability for the sequence of failures you have directly managed over?
+Finley — 6/10/2024 9:36 AM
+Sorry people played Chinese whispers for half a year
+Enough is enough.
+People deserve to know what is happening.
+Until we see some accountability and real meaningful acknowledgement of the failures and poor decisions taken, I will persist. If you will not as CEO of this business take accountability for these actions then I don't know who you really expect to do so. Carry on talking about how unfair everything is wont change the current state of events.
+No more brushing off responsibilities to others, no more missed deadlines, no more lies and blatant untruths about progress or development. You needed to change your ways a long time ago but the fact you still haven't despite the shitshow that has unfolded since launch is truly impressive yet terrifying to witness.
+Hamilton — 6/10/2024 10:33 AM
+I agree that the deliver could be different, Finley can have a cunty attitude that a great human being like me, would never.
+But please, don't label what he says as FUD when many of us stand behind what he said. The concerns are valid. 
+Oli — 6/10/2024 10:40 AM
+Many stand by what is being said, but not everyone does. In general, it's not a good idea to shine light on issues on (semi)public channels like the OG channel. These discussions do influence people that might have a different opinion and see things differently. I believe it's important to keep a positive and supportive attitude for everyone in this channel. While opinions vary, everyone needs to ensure our discussions are constructive, especially since the role of OGs is to support the project and team. Many people here remain quiet and I'm sure some of them don't want to read all of this negativity.
+Finley — 6/10/2024 10:43 AM
+Would you rather I take my thoughts and opinions to a (not)(semi)public channel instead? Sorry but this is the reality of the situation we're in, as I've said already I sat on my hands for 6 months and said nothing. I will remain quiet no longer and everybody in here deserves to know the truth.
+I have truly hated these last few weeks and months watching everybody in here and in public tricking ourselves into buying the lies and untruths that we were fed, no more.
+baba — 6/10/2024 10:44 AM
+Lets propose hiring Finley to axo. And be our treasurer! At this point thts the fair solution to this problem. He is part of the team !
+Oli — 6/10/2024 10:45 AM
+I completely agree about being cautious with giving dates and ETAs. I've learned this lesson the hard way as well 👍 However, some of the comments are approaching a level of disrespect, such as calling Jarek a liar, which is unproductive. People in other channels have been banned for less. While I would never want to stop the conversation here, let's work together to find a solution that satisfies everyone and maintains a respectful and positive dialogue, please
+Finley — 6/10/2024 10:45 AM
+Tried being polite and respectful for 6 months
+Nothing changed
+Sorry.
+Ineffective approach.
+baba — 6/10/2024 10:45 AM
+Treasury management is full time job especially with market making it! Given the load on team, it can be a miss ! 
+
+Lets give the responsibility to professional here 
+Finley — 6/10/2024 10:46 AM
+If you're trying to force me into silence by threatening to kick me I'm afraid it wont work.
+Oli — 6/10/2024 10:46 AM
+No I'm not, this will not happen
+Finley — 6/10/2024 10:47 AM
+I've said what I wanted to say
+I'll continue to do so while the situation remains unchanged.
+Oli — 6/10/2024 10:48 AM
+I just want to ensure this discussion remains respectful 🙏 We're all human, and everyone has their limits. It seems maybe you've reached yours, and that's understandable after everything I've read here. Let's keep our conversation constructive and considerate of each other's feelings
+Oli — 6/10/2024 10:49 AM
+What do you want exactly? Let’s see if we can find a solution together, with Jarek
+I need to go right now, need to pickup daughter from school, but I'll be back later. Just write here exactly what you want and expect, and everyone will see what can be done
+Finley — 6/10/2024 10:50 AM
+A change in leadership or a means of holding the current leadership to account for his actions. 
+I am yet to see any accountability from the sole responsible party for the most recent list of cock ups.
+Why were the raw_spot signals used for 1-2M ADA in assets?
+Why wasn't it known? Or why was it ignored that these signals are extremely dangerous and very easy to manipulate?
+How much money was lost in this failure? And how much has been lost in total from treasury MMs so far?
+exkoltibur — 6/10/2024 10:56 AM
+Without yarek all this wouldn't exist for sure...
+Marked Safe From Titan — 6/10/2024 11:17 AM
+Without investors it doesn't exist either. This is pretty disheartening
+Please tell me this isn't happening to cblp pol
+adamanska — 6/10/2024 11:40 AM
+Probably because he cares & if there's one thing i've learned from Hollywood its
+Image
+Finley — 6/10/2024 11:41 AM
+I gave two options, the latter of which you're still yet to do. You may not be looking for excuses but it's all you're saying right now. In reality we as community members cannot possibly know what kind of leader you are; can we? Only your team of developers truly knows what sort of leader you are, and we've never heard from them. All we see is a platform that is less functional than it was meant to be at launch; and I certainly don't hold the dev team responsible for that. What do the team think about that? What do they think about the current state of the FE and PnL and signals? What do they think about your leadership and style of management?
+Finley — 6/10/2024 11:54 AM
+How has the size of the development team changed over time? Since launch? Have you hired new developers or have developers quit? If the team is fully behind you and trusts you and are having work efficiently delegated and assigned to them, why has it taken over half a year for the absolute bare basic aspects of the protocol to be "nearly" functional? And will it take another 6 months for the same quantity of development? Did the FE team support your decision to release the product in its entirely dysfunctional state? Did the BE team support your decision to launch the LSE in its entirely dysfunctional state? I would imagine they take great shame in having incomplete work being presented as their finished product. Did nobody stop to think for a moment about launching this product while the majority of "promised" features and functionality were completely unusable and remain very close to that now, you know like the owner and CEO of the project?
+Finley — 6/10/2024 12:12 PM
+So by the sounds of it then the recent failures and errors were not made by any of the developers, therefore will you finally take some accountability and responsibility for your actions? And how much money has been lost from your actions? Or all of the missed promises and deadlines that YOU gave people? Or the mistakes with the SPLASH strategies or the BTN strategies when you bought into major slippage on AMMs and then sold at a loss on Axo? I think it's worth restating I have no issue with the team and I have no doubt they are worked to death, but it is ultimately you who the burden of responsibility falls onto when these fatal errors and mistakes occur, so no everything is not just "unfair", that is life Jarek. Life is unfair. Start taking some accountability for your actions and stop bullshitting people with unrealistic, impossible deadlines and ETAs all the time. You've been doing it non-stop for 6 months and despite a lot of us hoping that you would wake up and smell coffee after the disastrous launch; it appears you haven't changed a thing.
+Finley — 6/10/2024 12:19 PM
+Great thanks for clarifying. There you have it my fellow OGs. Zero accountability for the events we have witnessed unfold over the last few days, and the same for the errors made since launch. I need not say anymore at this point.
+This is the reality we are living in guys, and this is why I chose to speak up after months of silence 
+Do with this information what you will.
+dephi — 6/10/2024 12:29 PM
+i just wanna say this: i think its good that we are seeing this discussion
+i personally dont really care who's fault it was, but that it gets resolved asap - because if shit doesnt get adressed properly and noone is responsible for failures (which can happen and as long as ppl learn from mistakes they can be good) then people lose trust, some of us are here for almost 3 years, its not that we dont trust jarek to deliver but if OGs and private sale investors start to sell, then thats looking not so well
+people lose money & hope and then this thing starts to spiral down. that doesnt help funding, and so on...
+
+so i repair shit for 20 years as job, i'm interested in solutions. what can & needs to be done and adressed?
+
+i have 0 ideas on the MM problems ongoing but i can say what i said from day 1 (as a non coder, bad in math crypto degen user): i need a easy & safe way to provide liquidity ( PnL !) if i hear 3 times "soon™️" and soon doesnt soon soon enough then that sucks - i mean i have to answer people when stuff will come and i already told them next week like 3 times 
+exkoltibur — 6/10/2024 12:43 PM
+I don't see things so negatively
+Volume went up a lot
+And there are some custom strats that can be used thanks to e.g. serotonin
+I use some myself and even built another one without investing a lot of time
+Sp savy people will be able to work with that is there
+Ofc we need better docu etc and pnl
+But it's not something to get angry about
+Axo price rn is totally fine
+It started extremely high and is still high
+So it's not like there is really a loss of trust there
+Axo is still the highest valued dex on cardano by far
+Even though it has not the highest volume or tvl
+So what's wrong with that??
+Oli — 6/10/2024 12:58 PM
+AXO is currently ranked number one in capital efficiency, significantly better than other DEXes
+
+In just six months since launch, AXO has also become the number two DEX by volume, even with having only a fraction of the TVL/liquidity. With some fine-tuning and a few more projects adding part of their liquidity to AXO, I believe we can reach the top spot by volume 
+
+Without TapTools integration (hope they won't take too long 😅), it's hard to check the exact figures, but I suspect AXO is also number one in actual profit, even surpassing Minswap, due to Minswap's high token payouts
+
+These are very impressive statistics, achieved in only six months, which does show AXO's rapid progress. While other DEXes have tried to come close to Minswap's volume, we've become nr two in half a year
+
+The PnL backend is ready, so we should see this feature soon. 
+
+Personally, I am in talks with several project leaders who are interested in providing liquidity on AXO. It's important to understand that most liquidity on DEXes comes from the projects themselves rather than regular users. I'm actively involved in trying to bring 10-20% of some projects' liquidity to AXO 👌 
+
+I'm sure I'm missing some, but there are many positive developments that we should celebrate 🎉
+Hamilton — 6/10/2024 1:00 PM
+Yes, so besides buying and selling (like AMMs) what can I, the user do?
+Finley — 6/10/2024 1:00 PM
+Incredible. Don't worry everybody close your eyes and go home. Cheers. :Cheers:
+Oli — 6/10/2024 1:01 PM
+Do you mean you want to see more of the roadmap?
+dephi — 6/10/2024 1:01 PM
+its hamilton: he wants documentation 😄
+Oli — 6/10/2024 1:01 PM
+We should also celebrate the achievements
+Finley — 6/10/2024 1:01 PM
+We've done that and we do it in public constantly
+This is the "(semi)public" place to be realistic
+Hamilton — 6/10/2024 1:02 PM
+I mean, I am here cause AXO sold the idea of being different. Being professional, being a platform for traders, but what can I do as the user that I can't do in a AMM?
+Oli — 6/10/2024 1:03 PM
+You can use CEX-like trading features, but in a trustless and self-custody manner. Just that is already pretty huge. Running strats might not be for everyone if that's the point you're trying to make
+Hamilton — 6/10/2024 1:04 PM
+Can I?
+Can I do it now?
+Can I open the website and go there and do it now?
+Oli — 6/10/2024 1:05 PM
+What you're saying is that not all order types are live yet on mainnet?
+Hamilton — 6/10/2024 1:05 PM
+What am I saying is, to be very clear is, we can't do shit with programmable swaps yet
+Lifeless Ditto — 6/10/2024 1:06 PM
+https://app.axo.trade/strategies/view/SP_yoMwh6?tab=trade-history DCA ran out of credits
+DCA SP_yoMwh6
+Axo
+DCA SP_yoMwh6
+Hamilton — 6/10/2024 1:06 PM
+Everything that we can do at this present moment is absurdly simple
+Again, I never complained about AXO from the eyes of an investor
+I always complained as an user
+As someone who wants to use the platform
+exkoltibur — 6/10/2024 1:08 PM
+You can do a lot now
+Just look at serotonins smart grid
+Completely custom coded
+I also made a strat based on that
+would certainly have been easier with more docu but it wasn't that hard
+Lifeless Ditto — 6/10/2024 1:11 PM
+Image
+May DCA still has ADA?
+Or is that because the UTXOs aren't consolidated?
+Hamilton — 6/10/2024 1:30 PM
+The binance comparison is just not true. And I am not even talking about  perps or futures. I know that the lack of options and shorting, inhibit a lot what one can do to avoid beta. But that is not even what I am talking about. I believe that we have the bulding blocks to roll out things of the roadmap and it is a matter of time. 
+
+But I really dislike the way strategies and algorithms are promoted like we can go there right now and make wtv we want. Cause it is just no true, as you know, we lack some signals and we lack proper documentation of what we have. 
+
+I am not denying that these take time and care. But promoting that programmable swaps are 100% usable to the public right now it just intellectually dishonest.
+baba — 6/10/2024 1:34 PM
+I really think its going over the tipping point! 
+
+When we all can chill to previous levels? Using a moment to question everything will lead to nothing! 
+
+We all know the protocol in its stage and all good, and building blocks are out. I dont know what are we achieving going really into skin! 
+
+I agree with you on handling of treasury in more constructive way. I also hear Jarek which may seem excuse but valid points regarding cardanos low liquidity issues. 
+
+When can we behave more gentlemen and leave it to silence now??
+baba — 6/10/2024 1:37 PM
+Internally we can say this or that. But what company exist without making marketing UNrealistic? Look at the hopium being sold anywhere else. Speed for splash, decentralization for GY. Not to say, OB for splash, GY, muesli 
+What are we fighting for at this moment ?
+I see no outcome out  of it, but just burnt hearts
+exkoltibur — 6/12/2024 4:52 AM
+after working intensely with axo for a few days i like it more and more
+you really cant go back after trying it out properl
+y
+the original market making strats were unfortunate bc they burned some people
+they werent really usable as there was no protecteion against gaming the OB
+but now with some custom strats emerging its a completely different thing
+Oli — 6/12/2024 4:59 AM
+Yeah I think many people (myself included) got rekt on Spread MM strat and now some are still afraid of running other strats 😝
+🔥HOTSKY🔥 — 6/12/2024 1:14 PM
+Ngl I haven’t come across someone yet saying “bruh my MM strat is dominating!” So I’m scared lol. Maybe relentless had something going or I’m not in all the channels or something? :metal~1:
+Oli — 6/12/2024 1:18 PM
+I saw many tweets from users with amazing APYs on SNEK because it's so volatile but not 1 direction
+
+Seeing 300-700% apy, though I have to admit they took stats on rather short term, haven't seen long term stats, but it does seem very promising tbh
+
+This one in the discussion channel is also pretty bad ass
+⁠No Access 
+baba — 6/12/2024 1:18 PM
+Market making is a business where one strategy comes out and destroy another strategy to gain $$ 
+
+Why wud someone promote it? And there exist no strategy which ultimately wins! Its the truth to live by as markets, sentiments ever changing
+🔥HOTSKY🔥 — 6/12/2024 1:19 PM
+Nice, thanks Oli 🫡
+🔥HOTSKY🔥 — 6/12/2024 1:19 PM
+Totally understand this yes yes
+baba — 6/12/2024 1:19 PM
+Market making is full time Job! 
+
+We need bunch of market makers on AXo maintinjng portfolios. All we do is delegate to them stake ! That will be successful model
+Oli — 6/12/2024 1:20 PM
+I'm still waiting on approval for the summary of the office hours, I think the team wants to add some stuff
+
+But to add to what baba says, yes many MMers want to keep their winning strategies private. The team is checking how to add a feature to hide the strategy you're making from the front-end 👍 so that copying is much harder (you'll have to check stuff on chain but not many ppl will know how) 
+baba — 6/12/2024 1:20 PM
+Not all can market make. not alll shud aim to market make! Only ones who really understand
+🔥HOTSKY🔥 — 6/12/2024 1:20 PM
+Ahh yeah that reminds me of resents strat for something
+baba — 6/12/2024 1:21 PM
+I am saying, hiding shud be good. Somethjng like somebody minted strategy on chain! 
+
+Now , its hidden and all we see users its performance to copy it! And pay subscription as rewards to MM maintains their private strategy.
+Public strategies will not influence someone to keep market making
+Oli — 6/12/2024 1:22 PM
+Strats as a Service
+
+Yes that sounds good, share profit or pay the MM 👍 will add on list of suggestions
+
+Might also promote pro MMers to use AXO 
+🔥HOTSKY🔥 — 6/12/2024 1:22 PM
+This is exactly what I remember being discussed lol
+baba — 6/12/2024 1:22 PM
+Thats the only model that will work and bring more market makers wars around spot
+Oli — 6/12/2024 1:23 PM
+Some people are doing well
+
+https://x.com/robofloka/status/1796514495378153920?t=cXYjpgakmlUJL8kcKTIa_Q&s=19
+
+https://x.com/adacaleeeb/status/1793620577800135118?t=T9Av5IcEcDaRv1FUHlm4xg&s=19
+
+https://x.com/CardanoGuru/status/1800543993744519565?t=nxp0E6skezdoGrN9CfghCg&s=19
+🔥HOTSKY🔥 — 6/12/2024 1:25 PM
+Fkkkkk man I better get on this ASAP >_<
+Start with a small amount
+Serotonin — 6/12/2024 1:41 PM
+I’m a big fan of the grid strats. If you pick a good range you can get some great APR. You have to manually pull them as there is no stop-loss or take profit if they go out of range, but while they’re in range they typically do really well. I’ve had some big wins on the reference strats but also some big losses from them buying high selling low. All around I’m more neutral on them and only expect to be in profit from Axo rewards.
+I’ll probably make an easier to deploy Dumb Grid/Grid MM variant soonish that has a stop loss while still not costing credits to update like the Rolling Grid does. Rolling Grid still seems to do pretty well with a high enough spread though
+sbjuice — 6/12/2024 1:56 PM
+Yeah all mine buy high sell low. Those ntx strats just bleed. I think not giving pnl on atrats was a good thing cause I'm willing to bet most are at a loss.
+relent7ess — 6/12/2024 2:00 PM
+MM need volatility. Sucks when it trends.
+Plus there isn’t such thing as everyone profitable by simply copy strat
+copy trade and it lose in higher time frame
+dannycemilha — 6/12/2024 2:05 PM
+Summary of MM
+sbjuice — 6/12/2024 2:06 PM
+Mostly shit haha
+Serotonin — 6/12/2024 9:52 PM
+Sorry, I couldn't help myself. They left it wide open 😂 
+https://x.com/serotonin_ada/status/1801084830307807469
+Serotonin (@serotonin_ada) on X
+Month 6 of requesting @TapTools to integrate @axotrade
+https://t.co/wR7z5KDkum
+
+Twitter•6/12/2024 9:51 PM
+dephi — 6/13/2024 2:24 AM
+https://x.com/Dubbleu_43/status/1801126525732884664 how does he know?
+₳ (Dubbleu_43) (@Dubbleu_43) on X
+@serotonin_ada @TapTools @axotrade Well. Its Axo's move to make it happen.
+
+Twitter•6/13/2024 12:36 AM
+Oli — 6/13/2024 2:39 AM
+He literally DMd me recently asking to be unbanned on AXO Discord and he promised he wouldn't fud but rather be nice 🤷‍♂️
+dephi — 6/13/2024 2:40 AM
+yea he surely only has good intentions 😵‍💫
+PurplePhog — 6/13/2024 2:40 AM
+then he low key implies Axo is making up numbers.....
+Oli — 6/13/2024 2:41 AM
+I wanted to talk to Jarek about him and Micah, Micah has also shown interest in AXO and asked to be unbanned.... But yeah....
+PurplePhog — 6/13/2024 2:42 AM
+I don't trust those guys.
+Oli — 6/13/2024 2:42 AM
+Indeed... can't trust the butane guys
+dephi — 6/13/2024 2:46 AM
+https://x.com/Dubbleu_43/status/1801157817786642779 the topic is that TT aint integrating AXO - and he comes up with a TT screen? 
+₳ (Dubbleu_43) (@Dubbleu_43) on X
+@HoboHarry4 @thabit187 @serotonin_ada @TapTools @axotrade Interesting. So axo has 58 users?
+₳ (Dubbleu_43) (@Dubbleu_43) on X
+
+Twitter•6/13/2024 2:41 AM
+PurplePhog — 6/13/2024 2:47 AM
+To be fair, they aren't Eclipse level toxic....  but they seem to be working towards it.
+That clown wants to be unbanned, yet posts 3 sus replies in short order?
+dephi — 6/13/2024 2:56 AM
+https://x.com/Dubbleu_43/status/1801160431433666606 so how is the interaction to the fee wallet - the trades are the ones shown in the OB executed trades, are they getting routed via the strat wallet? what is TT pro even counting? 
+₳ (Dubbleu_43) (@Dubbleu_43) on X
+@HoboHarry4 @thabit187 @serotonin_ada @TapTools @axotrade Don't be kidding yourself that TT can count wallets interacting with another address/contract.
+
+So yes, 58 unique wallets (including axo project wallets) have sent fees to $axo.fee
+
+Twitter•6/13/2024 2:51 AM
+Oli — 6/13/2024 4:20 AM
+These children have nothig better to do 😅
+Marked Safe From Titan — 6/13/2024 4:33 AM
+⁠🐒-mal-og-crib⁠
+I was asking this before because I was arguing with them. What's the rebuttal here?
+Oli — 6/13/2024 4:34 AM
+I am not super technical, but DH is also getting the data directly from the OB/market depth + with some of our APIs on top
+I'm not involved at all with the taptools discussions, but from what I've seen we did our part and are waiting on them
+for the volume, not sure how they can poll it directly on chain 
+
+the fees can be polled from the fee wallet 
+
+But I wouldn't be able to give you more than this right now
+Marked Safe From Titan — 6/13/2024 4:36 AM
+Feels like a standoff then. They want more on chain looks and axo wants them to just use what they gave 
+exkoltibur — 6/13/2024 4:58 AM
+How about we make a trading competition on axo
+Nice wash trading for my strats to eat
+Or a strategy building competition
+Like a hackathon
+Things like that could bring some big attention
+Also still think the market making dao is a great idea
+If we raise like a million dollars with token sale and out it straight into mm
+Hmm I see
+Ofc it's all a lot of extra work too
+Marked Safe From Titan — 6/13/2024 5:25 AM
+Where can they grab it on chain? Asking cause I'm tech dumb. I understand amm has pool contracts so they can pull that data but I wouldn't know where to start to explain how to do it with axo
+dephi — 6/13/2024 5:38 AM
+will he share what he found? place your bets
+Image
+relent7ess — 6/13/2024 5:48 AM
+wen wanchainUSDC
+Oli — 6/13/2024 6:25 AM
+Do you have a policy ID or cardanoscan page for the token?
+relent7ess — 6/13/2024 6:28 AM
+asset13suleph5jmpz9j5e4q0kxydesp2aug93mjkvm6
+Oli — 6/13/2024 6:29 AM
+tyvm 👌 will see to get it added 👍
+baba — 6/13/2024 7:00 AM
+Who is engaging with this clown?Shud really consider their option to spread logics to anybody else but this clown.
+dephi — 6/13/2024 7:02 AM
+i'm seriously starting to believe that TT is getting their data from the wallet provider - that number would make sense if they had counted just ppl sending crypto to receiving adress (or handle $axo.fee) and they would only count that as TX
+.. as in: do  they even UTXO 🤔
+Le — 6/13/2024 8:01 AM
+FUD by taptools. Feels bad man lol
+dephi — 6/13/2024 8:04 AM
+just speculation on my side, but i dont know what was worse: if it was bad intentions or if it was pure incompetence - how can people honestly think its only 58 wallets interacting with the fucking fee wallet
+like just open 50 different tx in the fee wallet - you'll get 48 different wallets 
+but no: TT is showing only 58 wallets interacted within 6 FUCKING MONTH 
+
+sad to see
+Le — 6/13/2024 8:31 AM
+I would say incompetence
+Serotonin — 6/13/2024 9:23 AM
+⁠No Access
+Marked Safe From Titan — 6/13/2024 11:21 AM
+Yeah that's clear as mud boss. I'm tech dumb. I understand about half that 😄 no worries I'll just call them poopy heads next time I argue with them
+baba — 6/13/2024 11:27 AM
+In normal terms what comes out of it is, their architecture need to be modified to support CIP-20 standards for reading transaction metadata. But looks they havent done that, and slow to do that. 
+
+What they are doing instead is poor man data mining, which is reading script addresses and crunching data on their own, and not following standard set by CIP-20 which might be very generic and follow standard across cardano
+So using old way wud incur lot of computation and data crunching to support AXo, bcoz typically each order is its own script address, so they need to associate each script address appear on chain with AXo and rollup the numbers to agreegate, means lots of code to write as a poor man data miner
+Its interesting to me that AXo is actually overhauling the design specifications to really almost all apps on cardano, by being competitor to some OR by being aggregator to some. But instead of looking bright side, people are engaged in throwing dirt at each other. Like the guy dubbleau from twitter speaking non sense
+dephi — 6/13/2024 11:45 AM
+ty for the explanation!
+exkoltibur — 6/14/2024 6:35 AM
+is there an issue with thr website?
+latest tradesaround 4 hours ago on snek and axo and the chart is not updating
+although it seems like trades are happening when i look at my taptools wallet overview
+exkoltibur — 6/14/2024 6:46 AM
+really think there some bug going on
+but i guess you guys are on it
+didnt think id become apower user suddenly 😛
+Suratay — 6/14/2024 6:59 AM
+@glewellin  fyi
+Oli — 6/14/2024 7:42 AM
+Chart not updating quickly seems to be a cache issue if I understood correctly, it's being looked at as we speak (it can take 20 secs right now to update) 
+exkoltibur — 6/14/2024 8:17 AM
+when i wrote that it was like 90 minutes not updated
+no candles for 90 minutes
+that seems better now but something is wrong. closing and opening starts also doesnt work as i wrote in my ticket
+exkoltibur — 6/14/2024 8:47 AM
+again axo chart seems way old
+pibe age — 6/14/2024 9:57 AM
+there seems to be unusual trading at Axo on C3/ADA
+selling for 0.26 and buying for 0.245
+dephi — 6/14/2024 10:09 AM
+sus
+Image
+Finley — 6/14/2024 10:16 AM
+exkoltibur — 6/14/2024 10:46 AM
+is you guys axo/ada page working?
+my hour cjart on axo stops around 4 hours ago
+last trade 10 hours ago in market trades
+even cleared my cache
+Faketoshi — 6/14/2024 10:56 AM
+Yes it's frozen
+exkoltibur — 6/14/2024 11:25 AM
+any idea whats going on?
+Faketoshi — 6/14/2024 11:27 AM
+No, just wanted do give feedback since nobody answered.
+My strat seems to be frozen as well btw. So it's not just the GUI
+exkoltibur — 6/14/2024 11:28 AM
+yeah, not possible to close or open strts
+they do trade though
+i can see in taptools that assets in my wallet are changing
+Faketoshi — 6/14/2024 11:30 AM
+Strange. My strat was not trading, but I could close it without a problem.
+Faketoshi — 6/14/2024 11:38 AM
+IDK .. it's been hours. Maybe put out a fair warning on official channels?
+pibe age — 6/14/2024 12:43 PM
+for me the UI is not working. the chart has stopped 6 hours ago, and no trades are shown 
+exkoltibur — 6/14/2024 1:45 PM
+@glewellin thanks. And the Issum with strategies not showing funds, orders and trades? (see my ticket)? I assume its all related
+Serotonin — 6/14/2024 1:49 PM
+I really think that any strat that the LSE deploys needs to be deployed alongside a grid strategy so that there are limit orders present and it can’t get gamed so easily
+exkoltibur — 6/14/2024 1:54 PM
+Yeah or use moving average price like my strat
+exkoltibur — 6/14/2024 2:08 PM
+Thanks boss
+Serotonin — 6/14/2024 2:40 PM
+That one runs out on one side though if it’s bought out, right?
+Still should work at deterring fr gaming
+exkoltibur — 6/14/2024 3:24 PM
+Strat Info is there now
+Ada/axo chart still stops 3 hours ago
+exkoltibur — 6/14/2024 3:30 PM
+Yeah if you mean what I think you mean
+Image
+Mobile
+If I select Desktop Mode its fixed
+Image
+Ok im going to sleep now though . Good luck!
+dannycemilha — 6/14/2024 4:42 PM
+Do we have an attack on Hosky now? @glewellin Kinda weird this trading activity. 
+@Oli
+exkoltibur — 6/15/2024 3:36 AM
+Hour chart on axo/ada is lagging on Desktop while 15min seems up to date 
+dephi — 6/15/2024 5:27 AM
+thanks for the update! :malviper:
+exkoltibur — 6/16/2024 8:03 AM
+Interesting that the volume drop is so noticeable immediately
+Amm has Zero spread for very small orders and most orders on cardano are small
+So OB spread must be very small
+I'm still market making though with my moving average and it's working so far💪 v2 coming soon
+baba — 6/16/2024 12:21 PM
+Is there any intersting person as dreps? I serisly do not want to vote for same old cardano OGs. They all suck. Zero tech base, only twitter bases! 
+
+The reason for biggest cardano capital drain
+I wud happily vote for @masato.alexander if i hear he is there
+dephi — 6/16/2024 1:37 PM
+Image
+exkoltibur — 6/16/2024 3:38 PM
+sounds like it makes a lot of sense
+why give them 10m if we can use it directly
+im pretty sure if it was possible to mint usdc on cardano right now, nothing would really happen
+Oli — 6/17/2024 12:49 AM
+It wouldn't change a thing.
+
+Algorand has native usdc and it didn't do anything for their eco system
+
+People still had to mint it but no one did
+It did not bring in any liquidity
+And now they're stuck with usdc and no one is working on a better alternative
+
+What we have in cardano is imo better. More choice, better choices. And technically usdc/usdt can be brought through wanchain and MyUSD, though through a middle man. But no one is bringing it in, so I don't see why anyone would with native usdc
+
+We have a user problem not a stable problem imo 
+exkoltibur — 6/17/2024 1:44 AM
+Is there an issue with strategy data in gui not updating again?
+https://app.axo.trade/strategies/view/64mNfh?tab=vob
+MA MM v2 64mNfh
+Axo
+MA MM v2 64mNfh
+Last Update 6 hours ago seems weird to me
+exkoltibur — 6/17/2024 6:50 AM
+That one updated at some point but I have another one that hasbt updated since 12 hours or so
+https://app.axo.trade/strategies/view/peNbAl?tab=vob
+MA MM v2 peNbAl
+Axo
+MA MM v2 peNbAl
+This one has same Code as the other one but no vob shown since >12 hours
+Thanks
+exkoltibur — 6/17/2024 9:00 AM
+The credit consumption on those was also unusual. Much higher than with my other strats that evaluates one per hour. Not sure if credit consumption is tied to code complexity
+exkoltibur — 6/17/2024 10:29 AM
+Wow i saw the first strat that worked most of the day now also stopped producing vob. So you are saying they both ran out of memory? And it seems addition is less of a problem. My v1 strat was doing more addition than multiplication and didn't have issues so it could really be that. Crazy the things one has to work with on block chain
+Looking forward to the macro then
+I'm actually surprised all of the calculations happen onchain. I thought its all offchain
+exkoltibur — 6/17/2024 10:47 AM
+Another thing I noticed is that the next candle on a chart sometimes doesn't start where the previous one ended
+Image
+Like the last one here
+exkoltibur — 6/17/2024 12:41 PM
+Oh my two strats are now actually giving me an info "failure due to too many failures" under "needs attention" 👍
+dannycemilha — 6/18/2024 4:09 AM
+My strat it's broken too. I'm losing money, or not... 😅
+Oli — 6/18/2024 7:59 AM
+We restarted a couple of things early this morning, can you check again?
+Oli — 6/18/2024 7:59 AM
+What exactly is the issue? 🙏
+dannycemilha — 6/18/2024 8:15 AM
+It does not place orders on the VOB
+I think it could be the same as exkoltibur siad above
+Oli — 6/18/2024 8:29 AM
+Can you post here or DM me the strat?
+Will send to Jarek to check
+dannycemilha — 6/18/2024 8:33 AM
+Sent a DM
+exkoltibur — 6/18/2024 9:07 AM
+Those where the ones that were actually broken. I closed them
+The ones with memory overflow
+Oli — 6/18/2024 9:30 AM
+Okay 👍 thanks. Seems the other ones that stopped working is due to the same issue. Jarek investigating
+dephi — 6/19/2024 6:20 AM
+https://x.com/jason_borck/status/1803384481061208253 bridged BTC tradable on axo?! thots?
+Jason Borck (@jason_borck) on X
+You can now Buy & Sell BTC on Cardano & ERGO using the new @RosenBridge_erg
+
+Havent messed with it yet - but I think this will open up a lot of different DeFi options and Strategies
+Jason Borck (@jason_borck) on X
+
+Twitter•6/19/2024 6:09 AM
+exkoltibur — 6/19/2024 8:03 AM
+Ergo is such a cult
+Nobody needs ergo, seriously. Only bagholders
+Its like the cardano of cardano
+dephi — 6/19/2024 8:12 AM
+ergo aint even the topic on my question 😄
+(speaking as a 2 year ergo bag holder, dont even got the ergo wallet installed on this pc...)
+Serotonin — 6/20/2024 12:23 PM
+Can Axo utilize this or is this only effective for protocols that use batchers?
+
+https://x.com/elraulito_cnft/status/1803765727029010437?s=46
+elraulito (@ElRaulito_cnft) on X
+SundaeSwap a Meme-Resistant dex🍨
+
+In the image you can see how it executes 17 smart contracts to buy/sell $NIKE in a single transaction paying just 0.87 ₳ of fee
+
+But how is that possible and why nobody did it before?
+🧵
+elraulito (@ElRaulito_cnft) on X
+
+Twitter•6/20/2024 7:23 AM
+Oli — 6/20/2024 12:41 PM
+That's interesting 👌
+Serotonin — 6/20/2024 1:03 PM
+Why is Meritus retweeting Eclipses alt?
+Image
+Oli — 6/20/2024 1:09 PM
+strange, I'm talking to meritus still to this day, he's quite positive about axo in DM 
+Serotonin — 6/20/2024 1:09 PM
+Yea, I don’t know if he realizes that that’s Eclip7e
+Serotonin — 6/20/2024 1:36 PM
+Is Nike still not working on Axo? I don’t see any volume
+Oli — 6/20/2024 1:37 PM
+Should be working yes, but we're not MMing it ourselves
+dephi — 6/20/2024 1:40 PM
+https://app.axo.trade/?pair=NIKE_ADA this?
+Trade | Axo
+Axo
+Trade | Axo
+Serotonin — 6/20/2024 1:40 PM
+Oh, it shows up under spot market but not in tokens
+dephi — 6/20/2024 1:40 PM
+yea just was about to say
+dephi — 6/20/2024 1:40 PM
+@Oli
+shows 57k volume
+but not on token but if you look on spot
+Serotonin — 6/20/2024 1:42 PM
+Who is MMing it? Got ~100k Ada worth
+Oli — 6/20/2024 1:43 PM
+will create a ticket for the devs for NIKE not showing on the tokens page, nice catch guys, thank you 🙏
+🔥HOTSKY🔥 — 6/20/2024 1:53 PM
+Whoever it is… you’re our hero
+dannycemilha — 6/20/2024 2:01 PM
+Serotonin — 6/20/2024 2:04 PM
+Nice! You using your grid on steroids?
+Or was that bugging out after a while
+dannycemilha — 6/20/2024 2:06 PM
+similar, the team help me to fix it
+Serotonin — 6/20/2024 2:06 PM
+Awesome! What was the fix? 
+dephi — 6/20/2024 2:06 PM
+turn off and on again usually helps
+🤓
+dannycemilha — 6/20/2024 2:06 PM
+It was rookie mistake
+asset!(0) and asset!(1) are both ADA
+Serotonin — 6/20/2024 2:07 PM
+Finley — 6/20/2024 2:07 PM
+-65
+Serotonin — 6/20/2024 2:07 PM
+Oh, haha
+dannycemilha — 6/20/2024 2:07 PM
+I was trying to trade ADA against ADA 😅 
+How much is a 30ada profit on a 400 balance ada for 4 hours? In terms of APR?
+Serotonin — 6/20/2024 2:10 PM
+30/400 x 8 x 365 
+21,900%
+dannycemilha — 6/20/2024 2:11 PM
+dephi — 6/20/2024 2:15 PM
+money printer goes brrrrrrrrr
+dephi — 6/20/2024 2:26 PM
+when did you start the MM?
+about 4 hours ago? as in: are all the trades done on that pair from your liquidity?
+dannycemilha — 6/20/2024 2:36 PM
+began like at 6 hours ago
+dannycemilha — 6/20/2024 2:37 PM
+no, I think i'm not alone 
+dephi — 6/20/2024 2:48 PM
+cant stress enough how much i value the quality opinion of TapTools community manager on Butane Discord
+Image
+Marked Safe From Titan — 6/20/2024 7:31 PM
+@Oli how's the mobile work? I'm still getting "browser to small" in the app
+Oli — 6/21/2024 3:42 AM
+Mobile is live and kicking 👍  can you try to clean the cache/local storage? If that doesn't work, can you share a screenshot of the error?
+Try in incognito mode maybe, there's not cache/local storage there, just to see if that works
+Maybe you are on an extremely small phone with a very small screen? What's the brand and model? It could be that some smaller phones are not supported, not sure
+dannycemilha — 6/21/2024 6:54 AM
+wtf is this?
+Image
+Never seen this before
+Basket buys on DH, buying and selling Nike
+Oli — 6/21/2024 7:30 AM
+Seems to be this: https://app.dexhunter.io/baskets
+You can create a basket, and other people can buy the basket
+dephi — 6/22/2024 2:14 PM
+https://x.com/SteelSwap/status/1804585698957156618 👀
+SteelSwap DEX Aggregator (@SteelSwap) on X
+We've been brewing an experiment for the last three weeks, and we are preparing a report on our findings.
+
+The result is a brand new type of service for SteelSwap, but instead of benefiting traders, it serves liquidity providers.
+
+Who's ready?
+
+Twitter•6/22/2024 1:42 PM
+Serotonin — 6/22/2024 2:20 PM
+Nice. Looks like they’re ready to launch their fee modeling software/algo
+Marked Safe From Titan — 6/23/2024 10:01 AM
+Just saw butane selling some of their public sale splash at a loss. The alliance falling apart?
+exkoltibur — 6/23/2024 10:05 AM
+Uh nice
+flynn — 6/23/2024 10:14 AM
+Butane still a thing?
+Marked Safe From Titan — 6/23/2024 10:16 AM
+Supposed to launch soon
+Oli — 6/23/2024 10:48 AM
+Image
+Image
+Just trading 🤷‍♂️
+
+Buy price was 0.25 Ada
+Marked Safe From Titan — 6/23/2024 10:49 AM
+He must think it's gonna dump more
+Oli — 6/23/2024 10:51 AM
+Lets be honest, splash hasn't worked since launch. Every time a new token came out and had its LP on splash, the whole platform crashed.
+
+Maybe Micah thinks they can't fix their shit
+
+Last one with $CHIP release, but platform has been more down than up
+
+(not trying to throw shade at splash, just facts) 
+Oli — 6/23/2024 10:51 AM
+There are better ways to sell it though, could've done an OTC deal or something
+Marked Safe From Titan — 6/23/2024 10:52 AM
+Maybe he's shorting also
+He's a trader now
+relent7ess — 6/23/2024 11:02 AM
+it was all written when lp was moved to sundae
+Oli — 6/23/2024 11:04 AM
+I wanted to make a similar comment to Micah but had to hold myself
+relent7ess — 6/23/2024 11:04 AM
+cabal falling apart
+lol
+well ppl did gave him 10m ada as his piggy bank to trade with
+opensource
+exkoltibur — 6/23/2024 11:16 AM
+Splash definitely was a big disappointment
+No competition for axo
+I really expected more there
+So much talk and nothing to Show for kt
+Anagain: quality inversely proportional to marketing
+Always
+flynn — 6/24/2024 12:11 AM
+I had low expectations for splash and they didn't even meet those
+But tbh very few cardano projects have delivered anything worthwhile.
+exkoltibur — 6/24/2024 3:50 AM
+I feel like axo summer is coming soon
+Think people who try it get hooked
+And with rewors it will make more people mm
+dephi — 6/24/2024 10:08 AM
+what is a private mainnet
+Image
+baba — 6/24/2024 11:19 AM
+People who share mainnet seed phrases with each other are part of “private mainnet” group
+Oli — 6/24/2024 12:54 PM
+Prod QA
+Oli — 6/25/2024 5:02 AM
+It's really only for batchers
+From the team: 
+The staking validator trick is useful for batchers which basically have to invoke the same logic n times for each batched tx.
+Staking validator trick allows to run a common logic once which drastically reduces ex units and increases the maximum size of batch. However this is not really applicable to programmable swap design
+Serotonin — 6/25/2024 8:07 AM
+Thanks, I assumed so, but was curious to see if maybe it could be applicable to Axo in any way
+dephi — 6/25/2024 11:33 AM
+:feelspepospin:
+Image
+Serotonin — 6/25/2024 12:34 PM
+So, just throwing this out there…
+Image
+Image
+Image
+@Oli @CardanoThor @glewellin
+Not sure if it’s worth it to you all to have us potentially route to other DEX, but it seems like the opportunity is out there if you wanted to
+Oli — 6/25/2024 12:42 PM
+Thanks @Serotonin 🙏
+There is a suggestion I took note of, to integrate or build an aggregator on AXO directly. Will add all of this in the spec 👌 team will discuss when we get to these suggestions 
+Oli — 6/25/2024 12:44 PM
+Bridge liquidity to AXO is interesting
+Wonder what he mens with that and with "bridge assets from GY to AXO"
+Serotonin — 6/25/2024 1:22 PM
+He doesn’t want to release what they’re working on yet, but you can talk to him about it.
+It’s something that I’ve been waiting for the ecosystem to deliver for a while now.
+But can only be partially applied to Axo and AMMs due to their architecture
+Oli — 6/25/2024 1:38 PM
+Yeah we have a slack channel with elder 🙏
+Serotonin — 6/26/2024 9:08 PM
+EVERY.FUCKING.TIME!
+Image
+No eval variables. It works perfectly...except it burns through credits
+exkoltibur — 6/26/2024 11:58 PM
+My strat also uses credits a lot even though I always set my orders below maxbid and above minask
+I mean credits for trades like in your pic
+Oli — 6/27/2024 12:08 AM
+Anything we can do to help here? I do have a spec ready for showing eval update credits 
+Would you need something more @Serotonin @exkoltibur ?
+exkoltibur — 6/27/2024 12:27 AM
+Maybe an explanation what fees exactly are those that are shown in the picture assuming he is not the maker for any of those
++ for negative credits
+Oli — 6/27/2024 12:27 AM
+👌 sounsd good, thanks!
+Serotonin — 6/27/2024 10:20 AM
+Okay…after doing some more math, I think I should be able to recreate this without a partition too, which should get rid of these fees. I’ll cross my fingers and try again tonight.
+Serotonin — 6/27/2024 10:31 AM
+It’s an emotional roller coaster to say the least
+exkoltibur — 6/27/2024 11:39 AM
+Have a strat not updating data in ui again
+Bug still known? 
+Oli — 6/27/2024 11:42 AM
+Some requests to our db are taking a long time to fill and then return no results. Could be related, team looking into it as we speak. Will let you know when it's solved so we can check if your issue is resolved 👍
+dephi — 6/27/2024 1:13 PM
+they just had to wait for sundae v3 to grow bigger ...
+Image
+Lifeless Ditto — 6/27/2024 1:16 PM
+lessgo
+Serotonin — 6/27/2024 1:36 PM
+And I wonder how much of that is because DH fucked up things and routed most orders through Sundae
+dephi — 6/27/2024 1:37 PM
+or if they had to wait until axo treasury was dry... otherwise it would have been a lot more obvious we had second spot
+baba — 6/27/2024 1:40 PM
+Its ok we build from here
+Faketoshi — 6/27/2024 1:41 PM
+Can you elaborate? I'm a little slow
+baba — 6/27/2024 1:42 PM
+Time to sit back and strategise on MM role. MM shud be able to offset losses some way to get involved into tighter spreads. That wud make volume pick up
+Any wild ideas?
+dephi — 6/27/2024 1:44 PM
+treasury ran tight spread MM strats resulting in losses - but during that time we had really nice trading volume - DH routed lot more trades through axo - we were on second place on daily trading vol for long time
+but they didnt show the right numbers :mc:
+in fact they showed absolutely wrong numbers - so fuck them still
+baba — 6/27/2024 1:47 PM
+Wild idea - just like treasury, can we form a cult with multisig wallet, where a bright person like @Serotonin manage MM through it. And we share losses and profits out of it? Until we grow big?
+Faketoshi — 6/27/2024 1:48 PM
+So, you are saying that TT now integrated AXO?
+and that they waited for the treasury to no longer MM (does it?) to display a more undesirable statistic about the overall volume?
+baba — 6/27/2024 1:48 PM
+I wud want this feature to be inplemented on AXO, so that strategies are hidden but funds can be contributed. Strategy owner charge some extra fee
+On profits
+dephi — 6/27/2024 1:48 PM
+thats what i (jokingly) assumed - that doesnt mean they waited for that to happen
+Faketoshi — 6/27/2024 1:49 PM
+ok now I see what you mean. As I said .. I'm a little slow 😅
+Serotonin — 6/27/2024 4:02 PM
+I know now isn’t the time to ask but…any benefits for Axo holders for the launchpad?
+Oli — 6/27/2024 4:12 PM
+We do have talks to implement this, there's many benefits we could have, but it won't be implemented by the time we have our first sale
+Hamilton — 6/27/2024 4:37 PM
+If only launch wasn't a disaster
+Image
+Serotonin — 6/27/2024 4:52 PM
+Tbf, that volume was largely because strategies were hemorrhaging money to traders
+Hamilton — 6/27/2024 4:53 PM
+Because traders were trading
+dephi — 6/27/2024 4:54 PM
+Well... Whatever. What counts is that we work with what we have now
+Serotonin — 6/27/2024 9:52 PM
+Not to toot my own horn...but sometimes I can be kind of a badass
+Image
+exkoltibur — 6/28/2024 12:00 AM
+How did you do that without using variables. I need to check this out
+And what was the reason for the fees in the end?
+Serotonin — 6/28/2024 8:05 AM
+The math is “simple enough” to calculate everything from the asset allocations using just addition, subtraction, multiplication, and division
+It’s not the concentrated liquidity variant I wanted, but it’s a starting point.
+dephi — 6/29/2024 2:24 AM
+@Oli on the NVL_ADA trading pair there were market trades at price ranges NVL didnt even hit (at 2.3 ada for example) is something off with the reference price? its only smol volume trades 13-15 nvl trades
+Oli — 6/29/2024 2:31 AM
+I think someone tried to game the trading pair but was unsuccessful
+
+Not sure we are still MMing there
+dephi — 6/29/2024 2:32 AM
+it doesnt show trading pairs with NVL for me
+i mean marketmaking strats
+Oli — 6/29/2024 2:32 AM
+yeah, the strategies have a hard time loading right now
+I'll double check with the team about the NVL price
+dephi — 6/29/2024 2:33 AM
+Image
+doesnt show up for me
+Image
+Oli — 6/29/2024 2:34 AM
+Aaah this issue, okay, that's known 👍 we have a dev ticket open for this
+Thanks for reporting!
+dephi — 6/29/2024 3:56 AM
+still these smol trades done above price - who is MM nvl?
+Image
+dephi — 6/29/2024 10:47 AM
+https://x.com/butaneprotocol/status/1807077666354524626?s=46&t=ukmlmxY9xxSKRaE5VYeoEQ cant get hacked if you are audited and never launch!
+Butane Synthetics (@butaneprotocol) on X
+Due to our high expectations surrounding the security, user experience and completeness of Butane, our mainnet development will be continuing into early Q3.
+
+We thank you again for your continued support and look forward to collectively progressing to the next chapter of Butane.
+
+Twitter•6/29/2024 10:44 AM
+exkoltibur — 6/29/2024 11:05 AM
+Hahahahaha
+Another grifter product
+dephi — 6/29/2024 11:08 AM
+i'm pretty sure micah spending so much time on axo was really helping their progress
+exkoltibur — 6/29/2024 11:11 AM
+Butane will be the genious yield of synthetics
+Serotonin — 6/30/2024 10:10 AM
+⁠No Access
+mainnet
+exkoltibur — 6/30/2024 10:54 AM
+Wow kudos to you. Hope it will be noticed and used by people
+Are there any drawbacks compares to a "real" cpamm?
+Serotonin — 6/30/2024 11:02 AM
+It is discrete orders vs continuous and it isn’t pooled. This makes it slightly more “all or nothing” but I think the ability to set your own fee can outweigh this.
+The minimum order size makes it not very useful for small “LPers” 
+That and it’s more expensive for buyers because they have to pay txn fees for each individual vs a single pool
+Serotonin — 6/30/2024 11:16 AM
+Also, there is no way to suggest to the user “this amount is a 50-50 valuation” so they have to manually calculate that
+dephi — 6/30/2024 2:06 PM
+can we do something with the buybacks? 22k in the fee wallet
+Serotonin — 6/30/2024 2:24 PM
+Is Axo providing liquidity in the AXO-ADA pair? There's basically no depth and these 10k ADA sells are just demolishing the price
+Hamilton — 6/30/2024 2:26 PM
+Pay Serotonin
+Serotonin — 6/30/2024 3:06 PM
+So, what does everyone see when they go to More -> Algorithms?
+Is it only the strategies made by the Axo team?
+Leyla2042 — 6/30/2024 4:38 PM
+at this point im glad that i didnt buy any in the private sale🤐
+🔥HOTSKY🔥 — 6/30/2024 4:49 PM
+Same I would have bought more and not sold personally lol
+Oli — 7/1/2024 2:10 AM
+Yes, that's what I see as well
+dephi — 7/1/2024 3:35 AM
+Cardano doesnt seem to like innovations in DeFi - the concept of the usage of NFT not being a shitty pixelated picture of a Monkey is too abstract. Everybody only in for the next Memecoin it seems.
+sad to see
+Oli — 7/1/2024 3:55 AM
+Not sure if I posted it here, but we will improve the AXO NFTs: 
+
+Change the name from "receipt" to something that better explains what they are
+Change the image of the NFT to include informative text
+I'm talking to Eternl, and they're open to add some warnings in their wallet
+dephi — 7/1/2024 3:56 AM
+hey oli i noticed on TT markets overview page - they show fees generated for axo is 21.5k something
+that might be right for this month, but its lacking the month b4 that - you know what timeframe they show the generated fees?
+Oli — 7/1/2024 3:57 AM
+I thought it was all time tbh
+dephi — 7/1/2024 3:57 AM
+thought same, so we are being ripped off once again by these stupid fucking clowns
+can you ask them to PLEASE show the right numbers or gtfo?
+Oli — 7/1/2024 3:58 AM
+can't be last month right? Minswap 435k in fees? doesn't seem right
+but sundae also shows 46k in fees, doesn't seem right if that's total
+dephi — 7/1/2024 3:58 AM
+they will just add the ada in the fucking fee wallet, i'm getting so angry
+Oli — 7/1/2024 3:58 AM
+so maybe it is last 30 days
+yeah seems to be last 30 days mate 
+dephi — 7/1/2024 3:59 AM
+we had 25k for the first 3 month + 8k + 12k +21k this month
+Oli — 7/1/2024 3:59 AM
+Minswap had some good days
+dephi — 7/1/2024 3:59 AM
+you sure?
+Oli — 7/1/2024 3:59 AM
+47k in one day
+Image
+dephi — 7/1/2024 3:59 AM
+i cannot handle more of their mistakes
+dephi — 7/1/2024 5:11 AM
+just what we need today
+Image
+dephi — 7/1/2024 5:20 AM
+yea if people would stop selling we wouldnt have a capitulation - 33k limit popped up at 2.4x 
+Marked Safe From Titan — 7/1/2024 6:48 AM
+How much liquidity was given to cex's and how much of that turns into sell pressure if there's zero buy pressure?
+dephi — 7/1/2024 7:11 AM
+⁠No Access hey @Oli  i just had a idea: so there are profitable running strats right?
+why not incentivice people posting on X about them? there was something about a airdrop for content creators and such in the tokenomics - this should be considered too
+
+as you said: only the positive people post about their gainz, why not make it more of them? caleeeb for example seems to be havin fun playin around with strats for example
+maybe this needs to be added to launch of reward structure for MM
+Suratay — 7/1/2024 7:16 AM
+How can you prove to the x Community that the start is profitable?
+Withour PnL
+dephi — 7/1/2024 7:17 AM
+yea marketing campaign on PnL / Reward structure launch
+because i think after rewards announced we will tank more - and people showing off their profitable strats on top of the AXO rewards (maybe inctivised with following their strats) will mitigate some of the risk of further token dumping 
+this is what sets us apart from every single other dex in the ecosystem - if these things were out & a proper marketing strat build around it...
+i'm no marketing guy but it would make sense to me
+feel free to discuss though, i'm here to learn too
+dephi — 7/1/2024 7:52 AM
+https://x.com/MicahAlexKenda1/status/1807681989887340897
+Micah Kendall (@MicahAlexKenda1) on X
+@Conundrum97 has a much better user interface*
+
+Twitter•7/1/2024 2:45 AM
+yea basically AXO=MILK 🫣
+Oli — 7/1/2024 8:40 AM
+Thanks for the suggestion 👌 that's great! We already had a few people share their profitable strategies. Maybe we could wait on PnL and then incentivize this, but I took note and will talk to Thor soon about it (full hands on deck with launchpad right now)
+Philippe Le Long — 7/1/2024 8:45 AM
+Hey, I just saw a few tweets claiming that their axo order placed via dexhunter executed at the wrong price. Wanted to check out the issue myself, expecting to find a user error, but couldn't. 
+Please help me understand what happened here. Limit price is 1.15 ADA but the order was executed at 2.61 ADA
+https://app.axo.trade/strategies/view/T8Uu9MA?tab=overview
+Smart Market T8Uu9MA
+Axo
+Smart Market T8Uu9MA
+Oli — 7/1/2024 8:47 AM
+Someone shared the Sundae chart, brutal as well. Just checked GY chart, same.... 😕
+Oli — 7/1/2024 8:48 AM
+That would be a DH issue 😦 Price is indeed 2.6 and filled 100%
+Image
+Unlimited slippage maybe?
+Image
+This is strange though
+let me check with team
+Philippe Le Long — 7/1/2024 8:50 AM
+I couldn't find anything in the strategy itself. Slippage is set indirectly by lowering the limit price accordingly.
+Oli — 7/1/2024 8:52 AM
+I asked the team
+Serotonin — 7/1/2024 9:44 AM
+Yeah, I was looking into that too.
+Philippe Le Long — 7/1/2024 9:46 AM
+Any conclusions?
+Faketoshi — 7/1/2024 9:48 AM
+This is a smart market order and not a limit order imho
+So it has to execute at spot price
+Serotonin — 7/1/2024 9:50 AM
+It’s the “smart market” limit that is used on the basic front end which is a limit order. The logic is exactly the same as the “Limit” order that you place in the Pro interface. It’s just left->right at $price 
+It looks like a “Limit” order just has an extra “Computed” variable that helps the interface display the minimum received
+Serotonin — 7/1/2024 9:51 AM
+Nothing other than it seemed really concerning, given that it goes against how I thought the OME worked.
+I thought that it was impossible for the OME to pair transactions that didn’t meet the RFT specifications. If this can happen then that kind of suggests that it really is more of just a batcher to me.
+Oli — 7/1/2024 9:52 AM
+Seems a different price was sent to us by DH when creating the order and after submitting the order
+
+But still investigating
+The actual backend price is 2.6
+Serotonin — 7/1/2024 9:53 AM
+So it’s a front end display bug that says it’s 1.15 in the strategy?
+If you copy the strategy, those same default values automatically fill, so it doesn’t seem to be just a front end display thing
+Oli — 7/1/2024 9:56 AM
+Seems to be like it but will confirm soon
+Need to check exactly what happened
+Don't want to put the blame on DH before being 100% sure
+Serotonin — 7/1/2024 10:46 AM
+I’m not able to check atm, but can you look at the RFT datum and see what the limit price says there?
+
+fc75f9925c7e8dc90af4d06224ab4a8406c6cc630541e8597e882fd2c8f81b88
+Serotonin — 7/1/2024 10:48 AM
+Okay, phew, I was a bit worried for a minute there. On chain datum says price is 2.63
+
+7072696365: {
+            constructor: 2,
+            fields: [
+               {
+                  constructor: 0,
+                  fields: [
+                     {
+                        int: "328770637512207"
+                     },
+                     {
+                        int: "125000000000000000"
+                     }
+                  ]
+               }
+            ]
+         },
+Top int / bottom int * 1000
+Philippe Le Long — 7/1/2024 11:01 AM
+Is the metadata different? Not sure how to interpret this
+
+"params": {
+                "price": {
+                    "numerator": [
+                        1,
+                        [
+                            3642132267,
+                            44126
+                        ]
+                    ],
+                    "denominator": [
+                        1,
+                        [
+                            0,
+                            16777216
+                        ]
+                    ]
+                },
+Serotonin — 7/1/2024 11:05 AM
+44126/16777216*1000= 2.63, so afaik it matches
+Philippe Le Long — 7/1/2024 11:07 AM
+huh, seems like I just can't operate a calculatro correctly
+Neither can the axo frontend though as it seems 😄
+Serotonin — 7/1/2024 11:08 AM
+I remember DH had the slippage definition discrepancy that caused a bug previously. It might be the same thing here
+Philippe Le Long — 7/1/2024 11:08 AM
+What is the first integer in the numerator?
+Serotonin — 7/1/2024 11:08 AM
+I don’t know if it’s a price * (1+slippage) vs price / (1-slippage) definition thing
+That’s just my best guess
+Well, that still doesn’t get from 1.15 to 2.63
+Yeah idk
+Philippe Le Long — 7/1/2024 11:12 AM
+That's what's strange to me. Both of the orders show the correct limit price in the frontend and in the composer
+"correct" as in what the user intended
+Philippe Le Long — 7/1/2024 11:14 AM
+The smart order itself is just a regular limit order. The frontend will set the limit price based on current price minus specified slippage.
+Serotonin — 7/1/2024 11:18 AM
+Yeah, but the order was submitted by DH, so I don’t know what they input as the price there (I assume based on their definition of slippage) and how their definition differs
+Serotonin — 7/1/2024 12:32 PM
+Hmm, then that’s something that I need to add to ⁠No Access I thought that, at least the minted strategies, were visible to everyone there. Since this isn’t the case, there really isn’t any way for people to explore the available strategies. You have to hear about them word of mouth and then search for them in the (broken/limited search) Strategies page 
+I assume there will be some way on the future to publish/advertise your strategies there alongside the Axo teams strategies?
+Oli — 7/1/2024 12:44 PM
+Yes indeed, I think the algo page needs to manually be updated.
+
+With pnl + filter options on the strategies page, it will already be clearer but pls post your suggestion in the suggestion channel 👍
+Oli — 7/1/2024 12:45 PM
+That's how I envision it, after being vetted by the team
+Philippe Le Long — 7/1/2024 1:39 PM
+Let's see. Something's definitely off, even if DH created the strategy with the wrong parameters, it should still show the price from the datum in the strategy viewer. Gotta be careful how this issue will be perceived to make sure axo doesn't get unfairly blamed.
+Gynopedie — 7/1/2024 2:18 PM
+There is a 44k sell order in the orderbook that keep moving, some times disappears or splits in two and change price again between 2.80 and 2.96.  Is this a strat?  Or someone just shuffling a limit order around?
+is like 70% of the asks below 8
+exkoltibur — 7/1/2024 2:25 PM
+This time round I dont see any posts from people I trust recommending catalyst proposals to vote for
+Anyone got some kind of summary e..g on Twitter?
+pibe age — 7/1/2024 2:28 PM
+I always support txpipe guys 
+🔥HOTSKY🔥 — 7/1/2024 5:31 PM
+https://x.com/splashprotocol/status/1807898779594772760?s=46&t=gF-iyY4bJfCGlQolhKXb1Q
+Splash (@splashprotocol) on X
+BTC-ADA on Splash this week
+
+Twitter•7/1/2024 5:07 PM
+Marked Safe From Titan — 7/1/2024 5:34 PM
+Rosen bridge?
+🔥HOTSKY🔥 — 7/1/2024 5:34 PM
+I was hoping someone could answer ^_^
+So I can have that shit on a real OB lol
+That’s some sexy liquidity
+Marked Safe From Titan — 7/1/2024 5:35 PM
+U still in Palm ispo? When does it end?
+🔥HOTSKY🔥 — 7/1/2024 5:35 PM
+I’m m not sure tbh but yeah I’m still in it
+You in a different ISPO? Any new ones?
+Marked Safe From Titan — 7/1/2024 5:37 PM
+No I'm in Palm but nvl giving juicy returns with their pool. I like the potential of palm tho since my rewards aren't huge anyways
+🔥HOTSKY🔥 — 7/1/2024 5:37 PM
+They’ll have a strong marketing team and team overall pretty much for the bull
+dephi — 7/1/2024 5:45 PM
+Arent Palm tokenomics kinda... Lame? Been a while since i Had a look though
+Marked Safe From Titan — 7/1/2024 5:46 PM
+I really haven't looked enough but I'm willing to bet rewards on it
+exkoltibur — 7/2/2024 1:35 AM
+Image
+My strat just sold the tiniest amount of axo 😂
+flynn — 7/2/2024 2:13 AM
+Browser window too small in vespr when i try go to account page
+Want to burn reciepts
 Oli — 7/2/2024 2:34 AM
 There is a great Cardano TG called "ADA Street Bets", with many founders of Cardano projects. They hold an internal list of proposals from members of that channel. 
 
